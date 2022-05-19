@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '4'
+contentType: poetry
 ---
-
-4
 
 > Proč ale utrácíš, ty marnotratná něho,  
 > jen sama pro sebe dědictví krásy své?  

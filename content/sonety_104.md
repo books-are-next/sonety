@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '100'
+contentType: poetry
 ---
-
-100
 
 > Kdepak jsi, Muso, že takový dlouhý čas  
 > nemluvíš o tom, co ti dává všechnu sílu?  

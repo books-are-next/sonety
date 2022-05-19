@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '147'
+contentType: poetry
 ---
-
-147
 
 > Láska mne spaluje, horečka prahnoucí  
 > stále víc po tom, co pomáhá tomu zlu  

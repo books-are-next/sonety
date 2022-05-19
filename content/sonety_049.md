@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '45'
+contentType: poetry
 ---
-
-45
 
 > Druhé dva, očistný oheň a lehký vzduch,  
 > jsou stále u tebe, kdekoli zůstávám;  

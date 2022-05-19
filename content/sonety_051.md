@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '47'
+contentType: poetry
 ---
-
-47
 
 > Mé srdce a můj zrak sjednaly dohodu  
 > a jeden druhému teď pomáhá a slouží:  

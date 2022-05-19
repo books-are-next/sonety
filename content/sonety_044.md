@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '40'
+contentType: poetry
 ---
-
-40
 
 > Má lásko, vezmi si mé lásky všecky již  
 > a řekni, oč máš víc, nežli jsi dosud měl?  

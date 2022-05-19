@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '99'
+contentType: poetry
 ---
-
-99
 
 > Raný květ fialky já vyplísnil jsem přísně:  
 > „Ty sladký zloději, kdes vzal ten vonný dech,  

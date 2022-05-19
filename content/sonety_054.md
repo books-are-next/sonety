@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '50'
+contentType: poetry
 ---
-
-50
 
 > Tak těžce trmácím se stále po cestách,  
 > a přitom ani cíl, k němuž se plahočím,  

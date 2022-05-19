@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '2'
+contentType: poetry
 ---
-
-2
 
 > Až jednou oblehne čtyřicet zim tvé skráně  
 > a tvoji hladkou tvář zbrázdí jak rádlo zemi,  

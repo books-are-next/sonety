@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '132'
+contentType: poetry
 ---
-
-132
 
 > Miluji oči tvé, jež jako kdyby znaly  
 > ten posměch, jímž se mi tvé srdce stále mstí,  

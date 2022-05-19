@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '31'
+contentType: poetry
 ---
-
-31
 
 > Tvá hruď je vzácnější o to, že uvnitř zní  
 > srdce všech, které jsem za mrtvé pokládal;  

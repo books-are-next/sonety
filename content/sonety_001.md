@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 ![](../Images/OBALKA01-0004601936.jpg)

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '71'
+contentType: poetry
 ---
-
-71
 
 > Až pro mne přijde smrt, nenaříkejte dýl,  
 > než pokud budete poslouchat chrapot hran,  

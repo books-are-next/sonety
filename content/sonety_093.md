@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '89'
+contentType: poetry
 ---
-
-89
 
 > Tvrď, žes mne opustil pro některou z mých vad,  
 > a já se podrobím a začnu sám se hanit;  

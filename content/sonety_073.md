@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '69'
+contentType: poetry
 ---
-
-69
 
 > Na tom, co z tebe zde vidí svět, není vady,  
 > kterou by mohlo chtít snad srdce zlepšovat;  

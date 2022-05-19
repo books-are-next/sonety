@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '74'
+contentType: poetry
 ---
-
-74
 
 > Neměj však obavy: až přijde rozkaz jít —  
 > a bez odkladu — tam, kam musí každý v krátku,  

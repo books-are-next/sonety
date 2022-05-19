@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '115'
+contentType: poetry
 ---
-
-115
 
 > Teď už vím, že je lež to, co jsem kdysi psal,  
 > že bych vás nemohl ještě víc milovat:  

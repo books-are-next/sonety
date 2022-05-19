@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '102'
+contentType: poetry
 ---
-
-102
 
 > Má láska zpevnila, i když snad slabší zdá se;  
 > mých citů není míň, i když jsou méně znát:  

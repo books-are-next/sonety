@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '65'
+contentType: poetry
 ---
-
-65
 
 > Vše, kámen, kov i zem a nekonečnost moří,  
 > propadá zkáze a zániku — celý svět.  

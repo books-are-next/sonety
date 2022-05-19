@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '9'
+contentType: poetry
 ---
-
-9
 
 > To máš strach, aby tu jednou snad neplakala  
 > po tobě vdova, že trávíš svůj život sám?  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '136'
+contentType: poetry
 ---
-
-136
 
 > Jestli ti duše snad mou blízkost vyčítá,  
 > řekni jí, slepé, že nejsem nic než tvé přání;  

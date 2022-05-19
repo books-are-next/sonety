@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '111'
+contentType: poetry
 ---
-
-111
 
 > Štěstěnu kárejte za všecko, co se stalo,  
 > to božstvo vinu má, ach, za každý můj hřích  

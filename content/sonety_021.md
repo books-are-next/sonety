@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '17'
+contentType: poetry
 ---
-
-17
 
 > Kdopak by uvěřil v přívalu příštích dob  
 > mým veršům, které jsem jen vámi naplnil?  

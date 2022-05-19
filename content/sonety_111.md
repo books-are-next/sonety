@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '107'
+contentType: poetry
 ---
-
-107
 
 > Ani mé obavy, ani ty předpovědi  
 > širého světa, jenž o příštích věcech sní,  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '137'
+contentType: poetry
 ---
-
-137
 
 > Co to jen, Lásko, ty slepá a bláznivá,  
 > děláš mým očím, že nevidí to, co vidí?  

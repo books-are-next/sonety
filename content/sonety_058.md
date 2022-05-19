@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '54'
+contentType: poetry
 ---
-
-54
 
 > O co víc, příteli, přidává krásy kráse  
 > ta sladká ozdoba, která je ve věrnosti!  

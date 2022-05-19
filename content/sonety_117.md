@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '113'
+contentType: poetry
 ---
-
-113
 
 > Co jsem vás opustil, mám oči v duši jen  
 > a skutečný můj zrak, který mé kroky řídí,  

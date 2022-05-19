@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '116'
+contentType: poetry
 ---
-
-116
 
 > Nemluvte o tom, že svazku dvou věrných duší  
 > jsou v cestě překážky! Kdopak by láskou zval  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '150'
+contentType: poetry
 ---
-
-150
 
 > Ó pověz, odkud máš tu svoji strašnou sílu,  
 > že jsi mne vadami tak spoutat dovedla,  

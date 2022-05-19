@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '110'
+contentType: poetry
 ---
-
-110
 
 > Žel, pravda, přiznávám, já světem jsem se bral,  
 > sám bloudil sem a tam a přijal oblek šašků,  

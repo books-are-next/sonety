@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '22'
+contentType: poetry
 ---
-
-22
 
 > Zrcadlem nedám se přesvědčit o svém stáří,  
 > dokavad ještě ty a mládí jedno jste;  

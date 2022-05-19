@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '121'
+contentType: poetry
 ---
-
-121
 
 > Je lepší špatný být nežli se špatným zdát,  
 > má-li být nevinný obžalováván z viny  

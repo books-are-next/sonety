@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '106'
+contentType: poetry
 ---
-
-106
 
 > Když v dávných kronikách s listy už zežloutlými  
 > čítávám popisy těch starobylých reků  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '29'
+contentType: poetry
 ---
-
-29
 
 > Když opuštěn a sám naříkám na svůj osud,  
 > zavržen štěstím a lidmi, už trosečník,  

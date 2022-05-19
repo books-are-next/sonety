@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '27'
+contentType: poetry
 ---
-
-27
 
 > Když na smrt unaven na lože večer klesnu  
 > a údy ztýrané zlou cestou složím spát,  

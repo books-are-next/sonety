@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '41'
+contentType: poetry
 ---
-
-41
 
 > Ty milé poklesky, k nimž tě tvá volnost svádí,  
 > když někdy na chvíli tvé srdce opustím,  

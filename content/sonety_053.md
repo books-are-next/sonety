@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '49'
+contentType: poetry
 ---
-
-49
 
 > Pro ten zlý okamžik — a může se to stát —  
 > až spatřím, že ti jsou mé chyby na obtíž,  

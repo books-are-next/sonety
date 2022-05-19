@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '141'
+contentType: poetry
 ---
-
-141
 
 > Popravdě řečeno, já tebe nemiluji  
 > očima, které zří na tobě tisíc vad:  

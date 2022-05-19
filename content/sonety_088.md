@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '84'
+contentType: poetry
 ---
-
-84
 
 > Kdo může říci víc — byť říkal sebevíce —  
 > nežli ta chvála chval, že jenom vy jste vy?  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '38'
+contentType: poetry
 ---
-
-38
 
 > Jak si má vymýšlet má Musa, o čem psát,  
 > dokud zde dýcháš ty a plníš moje slova  

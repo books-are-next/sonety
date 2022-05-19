@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '114'
+contentType: poetry
 ---
-
-114
 
 > Zpíjí mou duši mor každého panovníka —  
 > lichotky — když jste ji teď k sobě na trůn zved?  

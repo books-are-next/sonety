@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '101'
+contentType: poetry
 ---
-
-101
 
 > Čímpak chceš odčinit, ó Muso zlenivělá,  
 > to, že už nepíšeš o krásné věrnosti?  

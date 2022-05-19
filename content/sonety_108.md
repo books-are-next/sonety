@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '104'
+contentType: poetry
 ---
-
-104
 
 > Ne, pro mne, drahý můj, vy nebudete starý.  
 > Jste stále krásný tak, jak jsem vás kdysi zhléd.  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '44'
+contentType: poetry
 ---
-
-44
 
 > Kdybych byl z myšlenky a ne z masa a kostí,  
 > co mohlo by se mi postavit do cesty?  

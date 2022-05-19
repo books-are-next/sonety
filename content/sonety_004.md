@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: "Znění tohoto textu vychází z\_díla Sonety tak, jak bylo vydáno Státním nakladatelstvím krásné literatury, hudby a umění v\_Praze v\_roce 1955\\. Pro potřeby vydání Městské knihovny v\_Praze byl text redakčně zpracován\\."
+contentType: poetry
 ---
-
-Znění tohoto textu vychází z díla [Sonety](https://search.mlp.cz/cz/titul/sonety/2246777/#/dk=key-eq:2889012-amp:titul-eq:true&getPodobneTituly=deskriptory-eq:401-amp:key-eq:2246777) tak, jak bylo vydáno Státním nakladatelstvím krásné literatury, hudby a umění v Praze v roce 1955. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 ![](../Images/MZK_logo_tyrkys_transparent.jpg)
 
@@ -17,8 +15,8 @@ Text díla (William Shakespeare: Sonety), publikovaného [Městskou knihovnou 
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
-  
-
 Verze 1.0 z 13. 8. 2021.
+
+  
 
 ![](../Images/image002.jpg)

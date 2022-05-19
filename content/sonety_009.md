@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '5'
+contentType: poetry
 ---
-
-5
 
 > Ty chvíle pokojné, jež jako jemný vzor  
 > utkaly drahý zjev, vábící každý zrak,  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '140'
+contentType: poetry
 ---
-
-140
 
 > Buď moudrá, jako jsi ukrutná; nemuč stále  
 > mou němou pokoru přílišným posměchem;  

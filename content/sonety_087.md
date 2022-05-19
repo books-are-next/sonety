@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '83'
+contentType: poetry
 ---
-
-83
 
 > Nikdy jsem neviděl, že vy se líčíte,  
 > a tak jsem vaši tvář nelíčil ani já;  

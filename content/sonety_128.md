@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '124'
+contentType: poetry
 ---
-
-124
 
 > Kdyby byl dítětem pompy můj vřelý cit,  
 > jak bastard Štěstěny by mohl osiřeti  

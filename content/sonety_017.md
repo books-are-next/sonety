@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '13'
+contentType: poetry
 ---
-
-13
 
 > Ach, kdybyste byl svůj! Jenomže vy, můj milý,  
 > jste vy jen po ten čas, dokud jste ještě tu:  

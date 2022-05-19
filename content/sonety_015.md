@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '11'
+contentType: poetry
 ---
-
-11
 
 > Jak rychle povadneš, tak rychle budeš tady  
 > zase růst v jednom z tvých, kterým jsi život dal,  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '73'
+contentType: poetry
 ---
-
-73
 
 > Ve mně už začíná, vidíš, ten smutný čas,  
 > kdy žloutnou stromy a poslední lístek visí  

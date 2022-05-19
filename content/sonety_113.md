@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '109'
+contentType: poetry
 ---
-
-109
 
 > Ó nikdy neříkej, že zrádné srdce mám,  
 > i když můj odjezd snad v tobě ten dojem budí;  

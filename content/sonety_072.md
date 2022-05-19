@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '68'
+contentType: poetry
 ---
-
-68
 
 > A tak je jeho tvář vzorem těch zašlých časů,  
 > kdy krása žila a zmírala jak dnes květ,  

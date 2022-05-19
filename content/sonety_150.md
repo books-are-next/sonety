@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '146'
+contentType: poetry
 ---
-
-146
 
 > Ó duše ubohá, střed hříšné hlíny mé,  
 > v plen daná žádostem, jež se kol tebe vzpouzí,  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '91'
+contentType: poetry
 ---
-
-91
 
 > Někdo se honosí svým jménem po předcích,  
 > někdo svým bohatstvím či tím, co dokázal,  

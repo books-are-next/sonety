@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '92'
+contentType: poetry
 ---
-
-92
 
 > I kdybys chtěl mne ty potají opustit,  
 > já tě mám do konce života jistého;  

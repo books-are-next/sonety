@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '80'
+contentType: poetry
 ---
-
-80
 
 > Ach, ztrácím odvahu, když píšu o vás, milý,  
 > a přitom vím, že vás lepší duch opěvá  

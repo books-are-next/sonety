@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '75'
+contentType: poetry
 ---
-
-75
 
 > Jste pro mé myšlenky jako chléb pro život  
 > a jako sladký čas dešťů pro zprahlou zem;  

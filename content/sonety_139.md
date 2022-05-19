@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '135'
+contentType: poetry
 ---
-
-135
 
 > Ať každá má, co chce, ty přece máš své přání  
 > a k tomu přítele a navíc ještě mne.  

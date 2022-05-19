@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '94'
+contentType: poetry
 ---
-
-94
 
 > Kdo má moc ublížit a přece se jí vzdává,  
 > kdo nikdy nedělá, co stále hrozí v něm,  

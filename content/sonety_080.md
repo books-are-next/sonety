@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '76'
+contentType: poetry
 ---
-
-76
 
 > Proč jsou mé verše tak chudé na novou krásu,  
 > pročpak jim chybí vzruch a stále nový dech?  

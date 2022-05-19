@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '125'
+contentType: poetry
 ---
-
-125
 
 > Cožpak bych neuměl vznést baldachýny cti  
 > a pouhým zevnějškem tak uctít vnější zdání,  

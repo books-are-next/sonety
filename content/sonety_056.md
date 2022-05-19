@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '52'
+contentType: poetry
 ---
-
-52
 
 > A tak jsem jako ten bohatec, který má  
 > klíč k sladké pokladně, v níž skrývá svoje skvosty,  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '33'
+contentType: poetry
 ---
-
-33
 
 > Kolikrát viděl jsem, jak jitro v plné slávě  
 > lichotí štítům hor svým okem vladaře  

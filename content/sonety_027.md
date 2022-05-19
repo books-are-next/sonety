@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '23'
+contentType: poetry
 ---
-
-23
 
 > Tak jako na scéně nedokonalý herec,  
 > jenž strachy pojednou vypadne z úlohy,  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '131'
+contentType: poetry
 ---
-
-131
 
 > Tak panovačná jsi vůči mně — jako ti,  
 > jimž krása vdechuje pýchu a ukrutnost,  

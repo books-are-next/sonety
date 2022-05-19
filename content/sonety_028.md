@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '24'
+contentType: poetry
 ---
-
-24
 
 > Mé oko na způsob malíře navždy vrylo  
 > do desky srdce tvůj obličej jako živý;  

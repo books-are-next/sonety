@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '58'
+contentType: poetry
 ---
-
-58
 
 > Chraň mě bůh, jenž mi dal být vaším otrokem,  
 > abych vám vyčítal čas vašich kratochvílí  

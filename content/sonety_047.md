@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '43'
+contentType: poetry
 ---
-
-43
 
 > Čím víc je přivírám, tím víc mé oči vidí —  
 > vždyť hledí celý den na to, co nemá ceny;  

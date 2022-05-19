@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '142'
+contentType: poetry
 ---
-
-142
 
 > Můj hřích je láska a tvoje ctnost nenávist,  
 > nenávist pro můj hřích, cit, který k tobě mám;  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '14'
+contentType: poetry
 ---
-
-14
 
 > Nemám své poznání z hvězd, které v nebi svítí,  
 > a přesto dovedu věštit jak astrolog —  

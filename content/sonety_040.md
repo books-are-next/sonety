@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '36'
+contentType: poetry
 ---
-
-36
 
 > Je to tak, věř, my dva musíme být zas dva,  
 > ač naše nedílná láska je pouze jedna;  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '96'
+contentType: poetry
 ---
-
-96
 
 > Jeden má za chybu tvé mládí a tvůj vzlet,  
 > druhý má za přednost tvůj věk s tvou dychtivostí;  

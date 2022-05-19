@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '60'
+contentType: poetry
 ---
-
-60
 
 > Jak vlna za vlnou, jež k břehům v dálce plyne,  
 > jdou naše minuty vstříc konci — děsný let!  

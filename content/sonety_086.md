@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '82'
+contentType: poetry
 ---
-
-82
 
 > Ach, ano, uznávám, že nejsi muž mé Musy,  
 > a proto můžeš číst — a nebude to hřích —  

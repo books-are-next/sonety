@@ -1,6 +1,6 @@
 ---
 title: ''
-contentType: prose
+contentType: poetry
 ---
 
 ![](../Images/upoutavka_eknihy.jpg)

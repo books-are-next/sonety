@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '133'
+contentType: poetry
 ---
-
-133
 
 > Ó srdce prokleté, pro něž mé srdce sténá,  
 > co žalu působí příteli a mně s ním!  

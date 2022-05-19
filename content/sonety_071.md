@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '67'
+contentType: poetry
 ---
-
-67
 
 > Ach, proč má uprostřed nákazy tady žít  
 > a zdobit bezbožnost svou vzácnou přítomností?  

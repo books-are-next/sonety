@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '149'
+contentType: poetry
 ---
-
-149
 
 > Proč říkáš, ukrutná, že tě já nemám rád,  
 > když se vždy spolčuji s tebou sám proti sobě?  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '144'
+contentType: poetry
 ---
-
-144
 
 > Dvě lásky v srdci mám k štěstí i k zoufalství,  
 > jako dva přeludy jdou nabádavě se mnou:  

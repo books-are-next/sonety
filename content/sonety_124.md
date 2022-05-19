@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '120'
+contentType: poetry
 ---
-
-120
 
 > Teď je mi útěchou, že jste byl kdysi krutý,  
 > a když si vzpomenu na strast, jež rvala mne,  

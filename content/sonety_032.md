@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '28'
+contentType: poetry
 ---
-
-28
 
 > Jak se mám navrátit k své dávné veselosti,  
 > když jsem i o blaho spánku teď oloupen?  

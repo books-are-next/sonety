@@ -1,6 +1,6 @@
 ---
 title: Poznámka překladatele
-contentType: prose
+contentType: poetry
 ---
 
   
@@ -16,6 +16,8 @@ Nefilologičnosti vnitřního pojetí oněch prvních pokusů, později shrnutý
 Je ovšem nepochybné, že se tím ráz Shakespearova původního verše do jisté míry pozměnil. Formální důvody proti takové změně nemají větší platnosti, protože jsou nejčastěji založeny na abstrakcích v tom smyslu, že se pokoušejí bez ohledu na jazykovou a básnickou tradici ztotožňovat jistý verš v poezii jednoho národa se stejně pojmenovaným (ale obvykle značně odlišným) veršem v poezii národa jiného, nehledě na to, že např. právě u Shake­speara je podstata jeho verše zrovna tak problematická jako podstata českého jambu, jímž bývá překládán.
 
 Větší platnost proti takovému rozšíření verše by už měly důvody umělecké, ty však lze ověřit jen na konkrétním materiálu, to jest na překladu samém a jeho porovnání s převody jinými, což ovšem může provést jedině kritika.
+
+  
 
 Snaha o vystižení a zdůraznění onoho „moderního a živého“ prvku v Shakespearových sonetech byla však sama o sobě velmi mlhavá a mohla stačit jako vodítko skutečně jen při převodu jednotlivých sonetů a malého výboru. Jakmile došlo na překlad celku, ukázalo se, že takový přístup ke staré poezii je velmi povšechný a povrchní. Tato poezie je mnohem složitější, než můžeme postřehnout na první pohled, a vedle složek, jež vnímáme bezprostředně, je v ní i mnoho prvků, jež pochopíme a oceníme teprve po důkladnějším poznání jak básně samé, tak širšího kontextu, v němž vznikla.
 
@@ -36,6 +38,8 @@ Ale to je jen osnova Sonetů, možno-li tak říci; uprostřed houště obrazů 
 A právě tak je to i s celkovým rázem jeho sonetů; ač původem snad konvenční, nakonec nabývají přesunutím přízvuku z elegantního dobového povrchu na smysl básně, podložený ryzím prožitkem, téměř vždy nebývalé hloubky a pravdivosti, i když jde o témata v soudobé poezii už tak otřelá, jako je obměna Horácovy ódy Exegi monumentum, kterou nacházíme v sonetu 55.
 
 To všechno je ostatně v naprosté shodě s ostatní Shake­spearovou tvorbou, v níž obdobně nabývají více méně konvenční náměty Shake­spearových předchůdců pod rukou tvůrce Hamleta tvaru vysoce básnického, v níž obdobně dostávají konvenční figury předshakespea­rovského divadla pod Shakespearovým perem rysy skutečných lidí.
+
+  
 
 Rozpoznat všechny tyto složky, zvážit jejich důležitost jak pro původní dílo, tak pro dnešek, neopominout dobovou a konvenční stránku Sonetů a přitom dobře zdůraznit jejich básnickou původnost – a posléze najít pro to všechno ekvivalent v češtině a v dnešní básnické řeči, to byl úkol více než obtížný.
 

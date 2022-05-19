@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '35'
+contentType: poetry
 ---
-
-35
 
 > Tak už se nesužuj tím, co jsi udělal,  
 > vždyť někdy padne stín i na slunko a lunu,  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '153'
+contentType: poetry
 ---
-
-153
 
 > Kupido odložil svou pochodeň a spal;  
 > a když to uviděl Dianin doprovod,  

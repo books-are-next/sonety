@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '19'
+contentType: poetry
 ---
-
-19
 
 > Zurážej spáry lvu, Čase vše ničící,  
 > nech zemi pohltit, co jsi jí zrodit dal,  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '59'
+contentType: poetry
 ---
-
-59
 
 > Není-li vskutku nic nového na zemi,  
 > bylo-li vskutku to, co je, už dříve všecko,  

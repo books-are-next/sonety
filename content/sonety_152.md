@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '148'
+contentType: poetry
 ---
-
-148
 
 > Co mi to za oči do hlavy vložila  
 > Láska, že nevidí skutečnost, jaká je!  
