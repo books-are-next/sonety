@@ -8,14 +8,10 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-sonety-d9d225f",
-  "revision": "d9d225f",
+  "identifier": "shakespeare-sonety-9838499",
+  "revision": "9838499",
   "readingOrder": [
     "promo.html",
-    "sonety_001.html",
-    "sonety_002.html",
-    "sonety_003.html",
-    "sonety_004.html",
     "sonety_005.html",
     "sonety_006.html",
     "sonety_007.html",
@@ -171,11 +167,11 @@
     "sonety_157.html",
     "sonety_158.html",
     "sonety_159.html",
-    "sonety_160.html"
+    "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 19 2022 14:05:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652969108339
+    "date": "Thu May 19 2022 14:12:41 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652969561058
   },
   "documents": [
     {
@@ -187,88 +183,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "sonety_001.html",
-      "toc": []
-    },
-    {
-      "title": "Sonety",
-      "file": "sonety_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
-      "next": "sonety_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Sonety",
-      "file": "sonety_002.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 2,
-      "prev": "sonety_001.html",
-      "next": "sonety_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Sonety",
-      "file": "sonety_003.html",
-      "words": 6,
-      "chars": 47,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 3,
-      "prev": "sonety_002.html",
-      "next": "sonety_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Znění tohoto textu vychází z díla Sonety tak, jak bylo vydáno Státním nakladatelstvím krásné literatury, hudby a umění v Praze v roce 1955. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.",
-      "file": "sonety_004.html",
-      "words": 103,
-      "chars": 672,
-      "ideas": 9,
-      "role": "chapter",
-      "order": 4,
-      "prev": "sonety_003.html",
       "next": "sonety_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": "Znění tohoto textu vychází z díla Sonety tak, jak bylo vydáno Státním nakladatelstvím krásné literatury, hudby a umění v Praze v roce 1955. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.",
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "1",
@@ -277,8 +193,8 @@
       "chars": 582,
       "ideas": 15,
       "role": "chapter",
-      "order": 5,
-      "prev": "sonety_004.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "sonety_006.html",
       "toc": [
         {
@@ -297,7 +213,7 @@
       "chars": 573,
       "ideas": 15,
       "role": "chapter",
-      "order": 6,
+      "order": 2,
       "prev": "sonety_005.html",
       "next": "sonety_007.html",
       "toc": [
@@ -317,7 +233,7 @@
       "chars": 569,
       "ideas": 15,
       "role": "chapter",
-      "order": 7,
+      "order": 3,
       "prev": "sonety_006.html",
       "next": "sonety_008.html",
       "toc": [
@@ -337,7 +253,7 @@
       "chars": 551,
       "ideas": 15,
       "role": "chapter",
-      "order": 8,
+      "order": 4,
       "prev": "sonety_007.html",
       "next": "sonety_009.html",
       "toc": [
@@ -357,7 +273,7 @@
       "chars": 556,
       "ideas": 15,
       "role": "chapter",
-      "order": 9,
+      "order": 5,
       "prev": "sonety_008.html",
       "next": "sonety_010.html",
       "toc": [
@@ -377,7 +293,7 @@
       "chars": 585,
       "ideas": 15,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "sonety_009.html",
       "next": "sonety_011.html",
       "toc": [
@@ -397,7 +313,7 @@
       "chars": 534,
       "ideas": 15,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "sonety_010.html",
       "next": "sonety_012.html",
       "toc": [
@@ -417,7 +333,7 @@
       "chars": 590,
       "ideas": 15,
       "role": "chapter",
-      "order": 12,
+      "order": 8,
       "prev": "sonety_011.html",
       "next": "sonety_013.html",
       "toc": [
@@ -437,7 +353,7 @@
       "chars": 565,
       "ideas": 15,
       "role": "chapter",
-      "order": 13,
+      "order": 9,
       "prev": "sonety_012.html",
       "next": "sonety_014.html",
       "toc": [
@@ -457,7 +373,7 @@
       "chars": 563,
       "ideas": 15,
       "role": "chapter",
-      "order": 14,
+      "order": 10,
       "prev": "sonety_013.html",
       "next": "sonety_015.html",
       "toc": [
@@ -477,7 +393,7 @@
       "chars": 575,
       "ideas": 15,
       "role": "chapter",
-      "order": 15,
+      "order": 11,
       "prev": "sonety_014.html",
       "next": "sonety_016.html",
       "toc": [
@@ -497,7 +413,7 @@
       "chars": 579,
       "ideas": 15,
       "role": "chapter",
-      "order": 16,
+      "order": 12,
       "prev": "sonety_015.html",
       "next": "sonety_017.html",
       "toc": [
@@ -517,7 +433,7 @@
       "chars": 554,
       "ideas": 15,
       "role": "chapter",
-      "order": 17,
+      "order": 13,
       "prev": "sonety_016.html",
       "next": "sonety_018.html",
       "toc": [
@@ -537,7 +453,7 @@
       "chars": 584,
       "ideas": 15,
       "role": "chapter",
-      "order": 18,
+      "order": 14,
       "prev": "sonety_017.html",
       "next": "sonety_019.html",
       "toc": [
@@ -557,7 +473,7 @@
       "chars": 554,
       "ideas": 15,
       "role": "chapter",
-      "order": 19,
+      "order": 15,
       "prev": "sonety_018.html",
       "next": "sonety_020.html",
       "toc": [
@@ -577,7 +493,7 @@
       "chars": 542,
       "ideas": 15,
       "role": "chapter",
-      "order": 20,
+      "order": 16,
       "prev": "sonety_019.html",
       "next": "sonety_021.html",
       "toc": [
@@ -597,7 +513,7 @@
       "chars": 554,
       "ideas": 15,
       "role": "chapter",
-      "order": 21,
+      "order": 17,
       "prev": "sonety_020.html",
       "next": "sonety_022.html",
       "toc": [
@@ -617,7 +533,7 @@
       "chars": 545,
       "ideas": 15,
       "role": "chapter",
-      "order": 22,
+      "order": 18,
       "prev": "sonety_021.html",
       "next": "sonety_023.html",
       "toc": [
@@ -637,7 +553,7 @@
       "chars": 541,
       "ideas": 15,
       "role": "chapter",
-      "order": 23,
+      "order": 19,
       "prev": "sonety_022.html",
       "next": "sonety_024.html",
       "toc": [
@@ -657,7 +573,7 @@
       "chars": 553,
       "ideas": 15,
       "role": "chapter",
-      "order": 24,
+      "order": 20,
       "prev": "sonety_023.html",
       "next": "sonety_025.html",
       "toc": [
@@ -677,7 +593,7 @@
       "chars": 549,
       "ideas": 15,
       "role": "chapter",
-      "order": 25,
+      "order": 21,
       "prev": "sonety_024.html",
       "next": "sonety_026.html",
       "toc": [
@@ -697,7 +613,7 @@
       "chars": 575,
       "ideas": 15,
       "role": "chapter",
-      "order": 26,
+      "order": 22,
       "prev": "sonety_025.html",
       "next": "sonety_027.html",
       "toc": [
@@ -717,7 +633,7 @@
       "chars": 519,
       "ideas": 15,
       "role": "chapter",
-      "order": 27,
+      "order": 23,
       "prev": "sonety_026.html",
       "next": "sonety_028.html",
       "toc": [
@@ -737,7 +653,7 @@
       "chars": 538,
       "ideas": 15,
       "role": "chapter",
-      "order": 28,
+      "order": 24,
       "prev": "sonety_027.html",
       "next": "sonety_029.html",
       "toc": [
@@ -757,7 +673,7 @@
       "chars": 559,
       "ideas": 15,
       "role": "chapter",
-      "order": 29,
+      "order": 25,
       "prev": "sonety_028.html",
       "next": "sonety_030.html",
       "toc": [
@@ -777,7 +693,7 @@
       "chars": 539,
       "ideas": 15,
       "role": "chapter",
-      "order": 30,
+      "order": 26,
       "prev": "sonety_029.html",
       "next": "sonety_031.html",
       "toc": [
@@ -797,7 +713,7 @@
       "chars": 558,
       "ideas": 15,
       "role": "chapter",
-      "order": 31,
+      "order": 27,
       "prev": "sonety_030.html",
       "next": "sonety_032.html",
       "toc": [
@@ -817,7 +733,7 @@
       "chars": 565,
       "ideas": 15,
       "role": "chapter",
-      "order": 32,
+      "order": 28,
       "prev": "sonety_031.html",
       "next": "sonety_033.html",
       "toc": [
@@ -837,7 +753,7 @@
       "chars": 546,
       "ideas": 15,
       "role": "chapter",
-      "order": 33,
+      "order": 29,
       "prev": "sonety_032.html",
       "next": "sonety_034.html",
       "toc": [
@@ -857,7 +773,7 @@
       "chars": 587,
       "ideas": 15,
       "role": "chapter",
-      "order": 34,
+      "order": 30,
       "prev": "sonety_033.html",
       "next": "sonety_035.html",
       "toc": [
@@ -877,7 +793,7 @@
       "chars": 569,
       "ideas": 15,
       "role": "chapter",
-      "order": 35,
+      "order": 31,
       "prev": "sonety_034.html",
       "next": "sonety_036.html",
       "toc": [
@@ -897,7 +813,7 @@
       "chars": 572,
       "ideas": 15,
       "role": "chapter",
-      "order": 36,
+      "order": 32,
       "prev": "sonety_035.html",
       "next": "sonety_037.html",
       "toc": [
@@ -917,7 +833,7 @@
       "chars": 549,
       "ideas": 15,
       "role": "chapter",
-      "order": 37,
+      "order": 33,
       "prev": "sonety_036.html",
       "next": "sonety_038.html",
       "toc": [
@@ -937,7 +853,7 @@
       "chars": 569,
       "ideas": 15,
       "role": "chapter",
-      "order": 38,
+      "order": 34,
       "prev": "sonety_037.html",
       "next": "sonety_039.html",
       "toc": [
@@ -957,7 +873,7 @@
       "chars": 566,
       "ideas": 15,
       "role": "chapter",
-      "order": 39,
+      "order": 35,
       "prev": "sonety_038.html",
       "next": "sonety_040.html",
       "toc": [
@@ -977,7 +893,7 @@
       "chars": 550,
       "ideas": 15,
       "role": "chapter",
-      "order": 40,
+      "order": 36,
       "prev": "sonety_039.html",
       "next": "sonety_041.html",
       "toc": [
@@ -997,7 +913,7 @@
       "chars": 553,
       "ideas": 15,
       "role": "chapter",
-      "order": 41,
+      "order": 37,
       "prev": "sonety_040.html",
       "next": "sonety_042.html",
       "toc": [
@@ -1017,7 +933,7 @@
       "chars": 541,
       "ideas": 15,
       "role": "chapter",
-      "order": 42,
+      "order": 38,
       "prev": "sonety_041.html",
       "next": "sonety_043.html",
       "toc": [
@@ -1037,7 +953,7 @@
       "chars": 548,
       "ideas": 15,
       "role": "chapter",
-      "order": 43,
+      "order": 39,
       "prev": "sonety_042.html",
       "next": "sonety_044.html",
       "toc": [
@@ -1057,7 +973,7 @@
       "chars": 579,
       "ideas": 15,
       "role": "chapter",
-      "order": 44,
+      "order": 40,
       "prev": "sonety_043.html",
       "next": "sonety_045.html",
       "toc": [
@@ -1077,7 +993,7 @@
       "chars": 562,
       "ideas": 15,
       "role": "chapter",
-      "order": 45,
+      "order": 41,
       "prev": "sonety_044.html",
       "next": "sonety_046.html",
       "toc": [
@@ -1097,7 +1013,7 @@
       "chars": 583,
       "ideas": 15,
       "role": "chapter",
-      "order": 46,
+      "order": 42,
       "prev": "sonety_045.html",
       "next": "sonety_047.html",
       "toc": [
@@ -1117,7 +1033,7 @@
       "chars": 577,
       "ideas": 15,
       "role": "chapter",
-      "order": 47,
+      "order": 43,
       "prev": "sonety_046.html",
       "next": "sonety_048.html",
       "toc": [
@@ -1137,7 +1053,7 @@
       "chars": 567,
       "ideas": 15,
       "role": "chapter",
-      "order": 48,
+      "order": 44,
       "prev": "sonety_047.html",
       "next": "sonety_049.html",
       "toc": [
@@ -1157,7 +1073,7 @@
       "chars": 540,
       "ideas": 15,
       "role": "chapter",
-      "order": 49,
+      "order": 45,
       "prev": "sonety_048.html",
       "next": "sonety_050.html",
       "toc": [
@@ -1177,7 +1093,7 @@
       "chars": 562,
       "ideas": 15,
       "role": "chapter",
-      "order": 50,
+      "order": 46,
       "prev": "sonety_049.html",
       "next": "sonety_051.html",
       "toc": [
@@ -1197,7 +1113,7 @@
       "chars": 551,
       "ideas": 15,
       "role": "chapter",
-      "order": 51,
+      "order": 47,
       "prev": "sonety_050.html",
       "next": "sonety_052.html",
       "toc": [
@@ -1217,7 +1133,7 @@
       "chars": 587,
       "ideas": 15,
       "role": "chapter",
-      "order": 52,
+      "order": 48,
       "prev": "sonety_051.html",
       "next": "sonety_053.html",
       "toc": [
@@ -1237,7 +1153,7 @@
       "chars": 556,
       "ideas": 15,
       "role": "chapter",
-      "order": 53,
+      "order": 49,
       "prev": "sonety_052.html",
       "next": "sonety_054.html",
       "toc": [
@@ -1257,7 +1173,7 @@
       "chars": 530,
       "ideas": 15,
       "role": "chapter",
-      "order": 54,
+      "order": 50,
       "prev": "sonety_053.html",
       "next": "sonety_055.html",
       "toc": [
@@ -1277,7 +1193,7 @@
       "chars": 543,
       "ideas": 15,
       "role": "chapter",
-      "order": 55,
+      "order": 51,
       "prev": "sonety_054.html",
       "next": "sonety_056.html",
       "toc": [
@@ -1297,7 +1213,7 @@
       "chars": 572,
       "ideas": 15,
       "role": "chapter",
-      "order": 56,
+      "order": 52,
       "prev": "sonety_055.html",
       "next": "sonety_057.html",
       "toc": [
@@ -1317,7 +1233,7 @@
       "chars": 554,
       "ideas": 15,
       "role": "chapter",
-      "order": 57,
+      "order": 53,
       "prev": "sonety_056.html",
       "next": "sonety_058.html",
       "toc": [
@@ -1337,7 +1253,7 @@
       "chars": 584,
       "ideas": 15,
       "role": "chapter",
-      "order": 58,
+      "order": 54,
       "prev": "sonety_057.html",
       "next": "sonety_059.html",
       "toc": [
@@ -1357,7 +1273,7 @@
       "chars": 555,
       "ideas": 15,
       "role": "chapter",
-      "order": 59,
+      "order": 55,
       "prev": "sonety_058.html",
       "next": "sonety_060.html",
       "toc": [
@@ -1377,7 +1293,7 @@
       "chars": 557,
       "ideas": 15,
       "role": "chapter",
-      "order": 60,
+      "order": 56,
       "prev": "sonety_059.html",
       "next": "sonety_061.html",
       "toc": [
@@ -1397,7 +1313,7 @@
       "chars": 568,
       "ideas": 15,
       "role": "chapter",
-      "order": 61,
+      "order": 57,
       "prev": "sonety_060.html",
       "next": "sonety_062.html",
       "toc": [
@@ -1417,7 +1333,7 @@
       "chars": 591,
       "ideas": 15,
       "role": "chapter",
-      "order": 62,
+      "order": 58,
       "prev": "sonety_061.html",
       "next": "sonety_063.html",
       "toc": [
@@ -1437,7 +1353,7 @@
       "chars": 560,
       "ideas": 15,
       "role": "chapter",
-      "order": 63,
+      "order": 59,
       "prev": "sonety_062.html",
       "next": "sonety_064.html",
       "toc": [
@@ -1457,7 +1373,7 @@
       "chars": 546,
       "ideas": 15,
       "role": "chapter",
-      "order": 64,
+      "order": 60,
       "prev": "sonety_063.html",
       "next": "sonety_065.html",
       "toc": [
@@ -1477,7 +1393,7 @@
       "chars": 569,
       "ideas": 15,
       "role": "chapter",
-      "order": 65,
+      "order": 61,
       "prev": "sonety_064.html",
       "next": "sonety_066.html",
       "toc": [
@@ -1497,7 +1413,7 @@
       "chars": 540,
       "ideas": 15,
       "role": "chapter",
-      "order": 66,
+      "order": 62,
       "prev": "sonety_065.html",
       "next": "sonety_067.html",
       "toc": [
@@ -1517,7 +1433,7 @@
       "chars": 551,
       "ideas": 15,
       "role": "chapter",
-      "order": 67,
+      "order": 63,
       "prev": "sonety_066.html",
       "next": "sonety_068.html",
       "toc": [
@@ -1537,7 +1453,7 @@
       "chars": 558,
       "ideas": 15,
       "role": "chapter",
-      "order": 68,
+      "order": 64,
       "prev": "sonety_067.html",
       "next": "sonety_069.html",
       "toc": [
@@ -1557,7 +1473,7 @@
       "chars": 559,
       "ideas": 15,
       "role": "chapter",
-      "order": 69,
+      "order": 65,
       "prev": "sonety_068.html",
       "next": "sonety_070.html",
       "toc": [
@@ -1577,7 +1493,7 @@
       "chars": 558,
       "ideas": 15,
       "role": "chapter",
-      "order": 70,
+      "order": 66,
       "prev": "sonety_069.html",
       "next": "sonety_071.html",
       "toc": [
@@ -1597,7 +1513,7 @@
       "chars": 569,
       "ideas": 15,
       "role": "chapter",
-      "order": 71,
+      "order": 67,
       "prev": "sonety_070.html",
       "next": "sonety_072.html",
       "toc": [
@@ -1617,7 +1533,7 @@
       "chars": 557,
       "ideas": 15,
       "role": "chapter",
-      "order": 72,
+      "order": 68,
       "prev": "sonety_071.html",
       "next": "sonety_073.html",
       "toc": [
@@ -1637,7 +1553,7 @@
       "chars": 572,
       "ideas": 15,
       "role": "chapter",
-      "order": 73,
+      "order": 69,
       "prev": "sonety_072.html",
       "next": "sonety_074.html",
       "toc": [
@@ -1657,7 +1573,7 @@
       "chars": 551,
       "ideas": 15,
       "role": "chapter",
-      "order": 74,
+      "order": 70,
       "prev": "sonety_073.html",
       "next": "sonety_075.html",
       "toc": [
@@ -1677,7 +1593,7 @@
       "chars": 559,
       "ideas": 15,
       "role": "chapter",
-      "order": 75,
+      "order": 71,
       "prev": "sonety_074.html",
       "next": "sonety_076.html",
       "toc": [
@@ -1697,7 +1613,7 @@
       "chars": 540,
       "ideas": 15,
       "role": "chapter",
-      "order": 76,
+      "order": 72,
       "prev": "sonety_075.html",
       "next": "sonety_077.html",
       "toc": [
@@ -1717,7 +1633,7 @@
       "chars": 580,
       "ideas": 15,
       "role": "chapter",
-      "order": 77,
+      "order": 73,
       "prev": "sonety_076.html",
       "next": "sonety_078.html",
       "toc": [
@@ -1737,7 +1653,7 @@
       "chars": 572,
       "ideas": 15,
       "role": "chapter",
-      "order": 78,
+      "order": 74,
       "prev": "sonety_077.html",
       "next": "sonety_079.html",
       "toc": [
@@ -1757,7 +1673,7 @@
       "chars": 552,
       "ideas": 15,
       "role": "chapter",
-      "order": 79,
+      "order": 75,
       "prev": "sonety_078.html",
       "next": "sonety_080.html",
       "toc": [
@@ -1777,7 +1693,7 @@
       "chars": 565,
       "ideas": 15,
       "role": "chapter",
-      "order": 80,
+      "order": 76,
       "prev": "sonety_079.html",
       "next": "sonety_081.html",
       "toc": [
@@ -1797,7 +1713,7 @@
       "chars": 555,
       "ideas": 15,
       "role": "chapter",
-      "order": 81,
+      "order": 77,
       "prev": "sonety_080.html",
       "next": "sonety_082.html",
       "toc": [
@@ -1817,7 +1733,7 @@
       "chars": 543,
       "ideas": 15,
       "role": "chapter",
-      "order": 82,
+      "order": 78,
       "prev": "sonety_081.html",
       "next": "sonety_083.html",
       "toc": [
@@ -1837,7 +1753,7 @@
       "chars": 554,
       "ideas": 15,
       "role": "chapter",
-      "order": 83,
+      "order": 79,
       "prev": "sonety_082.html",
       "next": "sonety_084.html",
       "toc": [
@@ -1857,7 +1773,7 @@
       "chars": 564,
       "ideas": 15,
       "role": "chapter",
-      "order": 84,
+      "order": 80,
       "prev": "sonety_083.html",
       "next": "sonety_085.html",
       "toc": [
@@ -1877,7 +1793,7 @@
       "chars": 586,
       "ideas": 15,
       "role": "chapter",
-      "order": 85,
+      "order": 81,
       "prev": "sonety_084.html",
       "next": "sonety_086.html",
       "toc": [
@@ -1897,7 +1813,7 @@
       "chars": 565,
       "ideas": 15,
       "role": "chapter",
-      "order": 86,
+      "order": 82,
       "prev": "sonety_085.html",
       "next": "sonety_087.html",
       "toc": [
@@ -1917,7 +1833,7 @@
       "chars": 533,
       "ideas": 15,
       "role": "chapter",
-      "order": 87,
+      "order": 83,
       "prev": "sonety_086.html",
       "next": "sonety_088.html",
       "toc": [
@@ -1937,7 +1853,7 @@
       "chars": 568,
       "ideas": 15,
       "role": "chapter",
-      "order": 88,
+      "order": 84,
       "prev": "sonety_087.html",
       "next": "sonety_089.html",
       "toc": [
@@ -1957,7 +1873,7 @@
       "chars": 586,
       "ideas": 15,
       "role": "chapter",
-      "order": 89,
+      "order": 85,
       "prev": "sonety_088.html",
       "next": "sonety_090.html",
       "toc": [
@@ -1977,7 +1893,7 @@
       "chars": 574,
       "ideas": 15,
       "role": "chapter",
-      "order": 90,
+      "order": 86,
       "prev": "sonety_089.html",
       "next": "sonety_091.html",
       "toc": [
@@ -1997,7 +1913,7 @@
       "chars": 556,
       "ideas": 15,
       "role": "chapter",
-      "order": 91,
+      "order": 87,
       "prev": "sonety_090.html",
       "next": "sonety_092.html",
       "toc": [
@@ -2017,7 +1933,7 @@
       "chars": 590,
       "ideas": 15,
       "role": "chapter",
-      "order": 92,
+      "order": 88,
       "prev": "sonety_091.html",
       "next": "sonety_093.html",
       "toc": [
@@ -2037,7 +1953,7 @@
       "chars": 553,
       "ideas": 15,
       "role": "chapter",
-      "order": 93,
+      "order": 89,
       "prev": "sonety_092.html",
       "next": "sonety_094.html",
       "toc": [
@@ -2057,7 +1973,7 @@
       "chars": 551,
       "ideas": 15,
       "role": "chapter",
-      "order": 94,
+      "order": 90,
       "prev": "sonety_093.html",
       "next": "sonety_095.html",
       "toc": [
@@ -2077,7 +1993,7 @@
       "chars": 550,
       "ideas": 15,
       "role": "chapter",
-      "order": 95,
+      "order": 91,
       "prev": "sonety_094.html",
       "next": "sonety_096.html",
       "toc": [
@@ -2097,7 +2013,7 @@
       "chars": 535,
       "ideas": 15,
       "role": "chapter",
-      "order": 96,
+      "order": 92,
       "prev": "sonety_095.html",
       "next": "sonety_097.html",
       "toc": [
@@ -2117,7 +2033,7 @@
       "chars": 541,
       "ideas": 15,
       "role": "chapter",
-      "order": 97,
+      "order": 93,
       "prev": "sonety_096.html",
       "next": "sonety_098.html",
       "toc": [
@@ -2137,7 +2053,7 @@
       "chars": 540,
       "ideas": 15,
       "role": "chapter",
-      "order": 98,
+      "order": 94,
       "prev": "sonety_097.html",
       "next": "sonety_099.html",
       "toc": [
@@ -2157,7 +2073,7 @@
       "chars": 566,
       "ideas": 15,
       "role": "chapter",
-      "order": 99,
+      "order": 95,
       "prev": "sonety_098.html",
       "next": "sonety_100.html",
       "toc": [
@@ -2177,7 +2093,7 @@
       "chars": 580,
       "ideas": 15,
       "role": "chapter",
-      "order": 100,
+      "order": 96,
       "prev": "sonety_099.html",
       "next": "sonety_101.html",
       "toc": [
@@ -2197,7 +2113,7 @@
       "chars": 560,
       "ideas": 15,
       "role": "chapter",
-      "order": 101,
+      "order": 97,
       "prev": "sonety_100.html",
       "next": "sonety_102.html",
       "toc": [
@@ -2217,7 +2133,7 @@
       "chars": 552,
       "ideas": 15,
       "role": "chapter",
-      "order": 102,
+      "order": 98,
       "prev": "sonety_101.html",
       "next": "sonety_103.html",
       "toc": [
@@ -2237,7 +2153,7 @@
       "chars": 600,
       "ideas": 16,
       "role": "chapter",
-      "order": 103,
+      "order": 99,
       "prev": "sonety_102.html",
       "next": "sonety_104.html",
       "toc": [
@@ -2257,7 +2173,7 @@
       "chars": 565,
       "ideas": 15,
       "role": "chapter",
-      "order": 104,
+      "order": 100,
       "prev": "sonety_103.html",
       "next": "sonety_105.html",
       "toc": [
@@ -2277,7 +2193,7 @@
       "chars": 574,
       "ideas": 15,
       "role": "chapter",
-      "order": 105,
+      "order": 101,
       "prev": "sonety_104.html",
       "next": "sonety_106.html",
       "toc": [
@@ -2297,7 +2213,7 @@
       "chars": 585,
       "ideas": 15,
       "role": "chapter",
-      "order": 106,
+      "order": 102,
       "prev": "sonety_105.html",
       "next": "sonety_107.html",
       "toc": [
@@ -2317,7 +2233,7 @@
       "chars": 568,
       "ideas": 15,
       "role": "chapter",
-      "order": 107,
+      "order": 103,
       "prev": "sonety_106.html",
       "next": "sonety_108.html",
       "toc": [
@@ -2337,7 +2253,7 @@
       "chars": 564,
       "ideas": 15,
       "role": "chapter",
-      "order": 108,
+      "order": 104,
       "prev": "sonety_107.html",
       "next": "sonety_109.html",
       "toc": [
@@ -2357,7 +2273,7 @@
       "chars": 569,
       "ideas": 15,
       "role": "chapter",
-      "order": 109,
+      "order": 105,
       "prev": "sonety_108.html",
       "next": "sonety_110.html",
       "toc": [
@@ -2377,7 +2293,7 @@
       "chars": 585,
       "ideas": 15,
       "role": "chapter",
-      "order": 110,
+      "order": 106,
       "prev": "sonety_109.html",
       "next": "sonety_111.html",
       "toc": [
@@ -2397,7 +2313,7 @@
       "chars": 562,
       "ideas": 15,
       "role": "chapter",
-      "order": 111,
+      "order": 107,
       "prev": "sonety_110.html",
       "next": "sonety_112.html",
       "toc": [
@@ -2417,7 +2333,7 @@
       "chars": 558,
       "ideas": 15,
       "role": "chapter",
-      "order": 112,
+      "order": 108,
       "prev": "sonety_111.html",
       "next": "sonety_113.html",
       "toc": [
@@ -2437,7 +2353,7 @@
       "chars": 582,
       "ideas": 15,
       "role": "chapter",
-      "order": 113,
+      "order": 109,
       "prev": "sonety_112.html",
       "next": "sonety_114.html",
       "toc": [
@@ -2457,7 +2373,7 @@
       "chars": 596,
       "ideas": 15,
       "role": "chapter",
-      "order": 114,
+      "order": 110,
       "prev": "sonety_113.html",
       "next": "sonety_115.html",
       "toc": [
@@ -2477,7 +2393,7 @@
       "chars": 565,
       "ideas": 15,
       "role": "chapter",
-      "order": 115,
+      "order": 111,
       "prev": "sonety_114.html",
       "next": "sonety_116.html",
       "toc": [
@@ -2497,7 +2413,7 @@
       "chars": 574,
       "ideas": 15,
       "role": "chapter",
-      "order": 116,
+      "order": 112,
       "prev": "sonety_115.html",
       "next": "sonety_117.html",
       "toc": [
@@ -2517,7 +2433,7 @@
       "chars": 529,
       "ideas": 15,
       "role": "chapter",
-      "order": 117,
+      "order": 113,
       "prev": "sonety_116.html",
       "next": "sonety_118.html",
       "toc": [
@@ -2537,7 +2453,7 @@
       "chars": 566,
       "ideas": 15,
       "role": "chapter",
-      "order": 118,
+      "order": 114,
       "prev": "sonety_117.html",
       "next": "sonety_119.html",
       "toc": [
@@ -2557,7 +2473,7 @@
       "chars": 576,
       "ideas": 15,
       "role": "chapter",
-      "order": 119,
+      "order": 115,
       "prev": "sonety_118.html",
       "next": "sonety_120.html",
       "toc": [
@@ -2577,7 +2493,7 @@
       "chars": 586,
       "ideas": 15,
       "role": "chapter",
-      "order": 120,
+      "order": 116,
       "prev": "sonety_119.html",
       "next": "sonety_121.html",
       "toc": [
@@ -2597,7 +2513,7 @@
       "chars": 627,
       "ideas": 15,
       "role": "chapter",
-      "order": 121,
+      "order": 117,
       "prev": "sonety_120.html",
       "next": "sonety_122.html",
       "toc": [
@@ -2617,7 +2533,7 @@
       "chars": 530,
       "ideas": 15,
       "role": "chapter",
-      "order": 122,
+      "order": 118,
       "prev": "sonety_121.html",
       "next": "sonety_123.html",
       "toc": [
@@ -2637,7 +2553,7 @@
       "chars": 562,
       "ideas": 15,
       "role": "chapter",
-      "order": 123,
+      "order": 119,
       "prev": "sonety_122.html",
       "next": "sonety_124.html",
       "toc": [
@@ -2657,7 +2573,7 @@
       "chars": 584,
       "ideas": 15,
       "role": "chapter",
-      "order": 124,
+      "order": 120,
       "prev": "sonety_123.html",
       "next": "sonety_125.html",
       "toc": [
@@ -2677,7 +2593,7 @@
       "chars": 565,
       "ideas": 15,
       "role": "chapter",
-      "order": 125,
+      "order": 121,
       "prev": "sonety_124.html",
       "next": "sonety_126.html",
       "toc": [
@@ -2697,7 +2613,7 @@
       "chars": 549,
       "ideas": 15,
       "role": "chapter",
-      "order": 126,
+      "order": 122,
       "prev": "sonety_125.html",
       "next": "sonety_127.html",
       "toc": [
@@ -2717,7 +2633,7 @@
       "chars": 559,
       "ideas": 15,
       "role": "chapter",
-      "order": 127,
+      "order": 123,
       "prev": "sonety_126.html",
       "next": "sonety_128.html",
       "toc": [
@@ -2737,7 +2653,7 @@
       "chars": 555,
       "ideas": 15,
       "role": "chapter",
-      "order": 128,
+      "order": 124,
       "prev": "sonety_127.html",
       "next": "sonety_129.html",
       "toc": [
@@ -2757,7 +2673,7 @@
       "chars": 575,
       "ideas": 15,
       "role": "chapter",
-      "order": 129,
+      "order": 125,
       "prev": "sonety_128.html",
       "next": "sonety_130.html",
       "toc": [
@@ -2777,7 +2693,7 @@
       "chars": 472,
       "ideas": 13,
       "role": "chapter",
-      "order": 130,
+      "order": 126,
       "prev": "sonety_129.html",
       "next": "sonety_131.html",
       "toc": [
@@ -2797,7 +2713,7 @@
       "chars": 568,
       "ideas": 15,
       "role": "chapter",
-      "order": 131,
+      "order": 127,
       "prev": "sonety_130.html",
       "next": "sonety_132.html",
       "toc": [
@@ -2817,7 +2733,7 @@
       "chars": 571,
       "ideas": 15,
       "role": "chapter",
-      "order": 132,
+      "order": 128,
       "prev": "sonety_131.html",
       "next": "sonety_133.html",
       "toc": [
@@ -2837,7 +2753,7 @@
       "chars": 545,
       "ideas": 15,
       "role": "chapter",
-      "order": 133,
+      "order": 129,
       "prev": "sonety_132.html",
       "next": "sonety_134.html",
       "toc": [
@@ -2857,7 +2773,7 @@
       "chars": 550,
       "ideas": 15,
       "role": "chapter",
-      "order": 134,
+      "order": 130,
       "prev": "sonety_133.html",
       "next": "sonety_135.html",
       "toc": [
@@ -2877,7 +2793,7 @@
       "chars": 564,
       "ideas": 15,
       "role": "chapter",
-      "order": 135,
+      "order": 131,
       "prev": "sonety_134.html",
       "next": "sonety_136.html",
       "toc": [
@@ -2897,7 +2813,7 @@
       "chars": 543,
       "ideas": 15,
       "role": "chapter",
-      "order": 136,
+      "order": 132,
       "prev": "sonety_135.html",
       "next": "sonety_137.html",
       "toc": [
@@ -2917,7 +2833,7 @@
       "chars": 547,
       "ideas": 15,
       "role": "chapter",
-      "order": 137,
+      "order": 133,
       "prev": "sonety_136.html",
       "next": "sonety_138.html",
       "toc": [
@@ -2937,7 +2853,7 @@
       "chars": 566,
       "ideas": 15,
       "role": "chapter",
-      "order": 138,
+      "order": 134,
       "prev": "sonety_137.html",
       "next": "sonety_139.html",
       "toc": [
@@ -2957,7 +2873,7 @@
       "chars": 579,
       "ideas": 15,
       "role": "chapter",
-      "order": 139,
+      "order": 135,
       "prev": "sonety_138.html",
       "next": "sonety_140.html",
       "toc": [
@@ -2977,7 +2893,7 @@
       "chars": 570,
       "ideas": 15,
       "role": "chapter",
-      "order": 140,
+      "order": 136,
       "prev": "sonety_139.html",
       "next": "sonety_141.html",
       "toc": [
@@ -2997,7 +2913,7 @@
       "chars": 556,
       "ideas": 15,
       "role": "chapter",
-      "order": 141,
+      "order": 137,
       "prev": "sonety_140.html",
       "next": "sonety_142.html",
       "toc": [
@@ -3017,7 +2933,7 @@
       "chars": 566,
       "ideas": 15,
       "role": "chapter",
-      "order": 142,
+      "order": 138,
       "prev": "sonety_141.html",
       "next": "sonety_143.html",
       "toc": [
@@ -3037,7 +2953,7 @@
       "chars": 541,
       "ideas": 15,
       "role": "chapter",
-      "order": 143,
+      "order": 139,
       "prev": "sonety_142.html",
       "next": "sonety_144.html",
       "toc": [
@@ -3057,7 +2973,7 @@
       "chars": 550,
       "ideas": 15,
       "role": "chapter",
-      "order": 144,
+      "order": 140,
       "prev": "sonety_143.html",
       "next": "sonety_145.html",
       "toc": [
@@ -3077,7 +2993,7 @@
       "chars": 556,
       "ideas": 15,
       "role": "chapter",
-      "order": 145,
+      "order": 141,
       "prev": "sonety_144.html",
       "next": "sonety_146.html",
       "toc": [
@@ -3097,7 +3013,7 @@
       "chars": 586,
       "ideas": 15,
       "role": "chapter",
-      "order": 146,
+      "order": 142,
       "prev": "sonety_145.html",
       "next": "sonety_147.html",
       "toc": [
@@ -3117,7 +3033,7 @@
       "chars": 543,
       "ideas": 15,
       "role": "chapter",
-      "order": 147,
+      "order": 143,
       "prev": "sonety_146.html",
       "next": "sonety_148.html",
       "toc": [
@@ -3137,7 +3053,7 @@
       "chars": 579,
       "ideas": 15,
       "role": "chapter",
-      "order": 148,
+      "order": 144,
       "prev": "sonety_147.html",
       "next": "sonety_149.html",
       "toc": [
@@ -3157,7 +3073,7 @@
       "chars": 568,
       "ideas": 15,
       "role": "chapter",
-      "order": 149,
+      "order": 145,
       "prev": "sonety_148.html",
       "next": "sonety_150.html",
       "toc": [
@@ -3177,7 +3093,7 @@
       "chars": 572,
       "ideas": 15,
       "role": "chapter",
-      "order": 150,
+      "order": 146,
       "prev": "sonety_149.html",
       "next": "sonety_151.html",
       "toc": [
@@ -3197,7 +3113,7 @@
       "chars": 516,
       "ideas": 15,
       "role": "chapter",
-      "order": 151,
+      "order": 147,
       "prev": "sonety_150.html",
       "next": "sonety_152.html",
       "toc": [
@@ -3217,7 +3133,7 @@
       "chars": 526,
       "ideas": 15,
       "role": "chapter",
-      "order": 152,
+      "order": 148,
       "prev": "sonety_151.html",
       "next": "sonety_153.html",
       "toc": [
@@ -3237,7 +3153,7 @@
       "chars": 564,
       "ideas": 15,
       "role": "chapter",
-      "order": 153,
+      "order": 149,
       "prev": "sonety_152.html",
       "next": "sonety_154.html",
       "toc": [
@@ -3257,7 +3173,7 @@
       "chars": 557,
       "ideas": 15,
       "role": "chapter",
-      "order": 154,
+      "order": 150,
       "prev": "sonety_153.html",
       "next": "sonety_155.html",
       "toc": [
@@ -3277,7 +3193,7 @@
       "chars": 550,
       "ideas": 15,
       "role": "chapter",
-      "order": 155,
+      "order": 151,
       "prev": "sonety_154.html",
       "next": "sonety_156.html",
       "toc": [
@@ -3297,7 +3213,7 @@
       "chars": 583,
       "ideas": 15,
       "role": "chapter",
-      "order": 156,
+      "order": 152,
       "prev": "sonety_155.html",
       "next": "sonety_157.html",
       "toc": [
@@ -3317,7 +3233,7 @@
       "chars": 562,
       "ideas": 15,
       "role": "chapter",
-      "order": 157,
+      "order": 153,
       "prev": "sonety_156.html",
       "next": "sonety_158.html",
       "toc": [
@@ -3337,7 +3253,7 @@
       "chars": 542,
       "ideas": 15,
       "role": "chapter",
-      "order": 158,
+      "order": 154,
       "prev": "sonety_157.html",
       "next": "sonety_159.html",
       "toc": [
@@ -3357,9 +3273,9 @@
       "chars": 9534,
       "ideas": 22,
       "role": "chapter",
-      "order": 159,
+      "order": 155,
       "prev": "sonety_158.html",
-      "next": "sonety_160.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -3371,36 +3287,44 @@
       ]
     },
     {
-      "title": "Sonety",
-      "file": "sonety_160.html",
-      "words": 47,
-      "chars": 332,
-      "ideas": 13,
-      "role": "chapter",
-      "order": 160,
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 139,
+      "chars": 898,
+      "ideas": 22,
+      "role": "colophon",
+      "order": null,
       "prev": "sonety_159.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
-          "children": []
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "Znění tohoto textu vychází z díla Sonety tak, jak bylo vydáno Státním nakladatelstvím krásné literatury, hudby a umění v Praze v roce 1955. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.",
+              "id": "znění-tohoto-textu-vychází-zdíla-sonety-tak-jak-bylo-vydáno-státním-nakladatelstvím-krásné-literatury-hudby-anbspumění-vpraze-vroce-1955-pro-potřeby-vydání-městské-knihovny-vpraze-byl-text-redakčně-zpracován",
+              "children": []
+            }
+          ]
         }
       ]
     }
   ],
   "totals": {
     "all": {
-      "words": 18440,
-      "chars": 97007,
-      "ideas": 2361
+      "words": 18422,
+      "chars": 96849,
+      "ideas": 2357
     },
     "chapters": {
-      "words": 18434,
-      "chars": 96966,
-      "ideas": 2356
+      "words": 18278,
+      "chars": 95915,
+      "ideas": 2331
     }
   }
 }
