@@ -1,0 +1,1311 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Sonety",
+    "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+    "author": "William Shakespeare",
+    "publisher": "Městská knihovna v Praze",
+    "language": "cs-CZ",
+    "modified": "2021-08-16T00:00:00.000Z",
+    "published": "2021-08-12T09:30:31.000Z",
+    "description": "Městská knihovna v Praze",
+    "subject": "subject",
+    "generator": "Adobe InDesign 15.1.1",
+    "Sigil version": "0.9.9"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_001.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_002.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_003.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_004.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_005.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_006.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_007.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_008.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_009.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_010.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_011.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_012.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_013.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_014.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_015.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_016.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_017.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_018.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_019.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_020.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_021.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_022.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_023.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_024.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_025.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_026.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_027.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_028.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_029.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_030.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_031.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_032.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_033.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_034.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_035.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_036.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_037.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_038.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_039.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_040.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_041.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_042.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_043.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_044.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_045.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_046.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_047.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_048.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_049.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_050.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_051.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_052.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_053.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_054.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_055.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_056.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_057.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_058.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_059.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_060.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_061.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_062.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_063.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_064.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_065.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_066.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_067.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_068.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_069.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_070.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_071.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_072.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_073.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_074.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_075.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_076.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_077.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_078.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_079.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_080.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_081.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_082.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_083.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_084.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_085.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_086.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_087.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_088.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_089.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_090.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_091.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_092.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_093.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_094.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_095.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_096.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_097.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_098.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_099.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_100.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_101.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_102.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_103.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_104.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_105.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_106.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_107.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_108.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_109.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_110.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_111.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_112.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_113.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_114.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_115.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_116.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_117.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_118.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_119.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_120.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_121.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_122.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_123.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_124.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_125.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_126.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_127.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_128.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_129.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_130.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_131.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_132.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_133.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_134.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_135.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_136.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_137.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_138.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_139.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_140.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_141.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_142.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_143.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_144.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_145.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_146.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_147.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_148.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_149.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_150.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_151.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_152.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_153.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_154.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_155.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_156.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_157.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_158.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_159.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Text/sonety_160.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/Styles/idGeneratedStyles.css"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image001.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/image002.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/MZK_logo_tyrkys_transparent.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/OBALKA01-0004601936.jpg"
+    },
+    {
+      "type": "image/jpeg",
+      "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+    }
+  ],
+  "toc": [
+    {
+      "title": "1",
+      "href": "OEBPS/Text/sonety_005.xhtml#_idParaDest-1"
+    },
+    {
+      "title": "2",
+      "href": "OEBPS/Text/sonety_006.xhtml#_idParaDest-2"
+    },
+    {
+      "title": "3",
+      "href": "OEBPS/Text/sonety_007.xhtml#_idParaDest-3"
+    },
+    {
+      "title": "4",
+      "href": "OEBPS/Text/sonety_008.xhtml#_idParaDest-4"
+    },
+    {
+      "title": "5",
+      "href": "OEBPS/Text/sonety_009.xhtml#_idParaDest-5"
+    },
+    {
+      "title": "6",
+      "href": "OEBPS/Text/sonety_010.xhtml#_idParaDest-6"
+    },
+    {
+      "title": "7",
+      "href": "OEBPS/Text/sonety_011.xhtml#_idParaDest-7"
+    },
+    {
+      "title": "8",
+      "href": "OEBPS/Text/sonety_012.xhtml#_idParaDest-8"
+    },
+    {
+      "title": "9",
+      "href": "OEBPS/Text/sonety_013.xhtml#_idParaDest-9"
+    },
+    {
+      "title": "10",
+      "href": "OEBPS/Text/sonety_014.xhtml#_idParaDest-10"
+    },
+    {
+      "title": "11",
+      "href": "OEBPS/Text/sonety_015.xhtml#_idParaDest-11"
+    },
+    {
+      "title": "12",
+      "href": "OEBPS/Text/sonety_016.xhtml#_idParaDest-12"
+    },
+    {
+      "title": "13",
+      "href": "OEBPS/Text/sonety_017.xhtml#_idParaDest-13"
+    },
+    {
+      "title": "14",
+      "href": "OEBPS/Text/sonety_018.xhtml#_idParaDest-14"
+    },
+    {
+      "title": "15",
+      "href": "OEBPS/Text/sonety_019.xhtml#_idParaDest-15"
+    },
+    {
+      "title": "16",
+      "href": "OEBPS/Text/sonety_020.xhtml#_idParaDest-16"
+    },
+    {
+      "title": "17",
+      "href": "OEBPS/Text/sonety_021.xhtml#_idParaDest-17"
+    },
+    {
+      "title": "18",
+      "href": "OEBPS/Text/sonety_022.xhtml#_idParaDest-18"
+    },
+    {
+      "title": "19",
+      "href": "OEBPS/Text/sonety_023.xhtml#_idParaDest-19"
+    },
+    {
+      "title": "20",
+      "href": "OEBPS/Text/sonety_024.xhtml#_idParaDest-20"
+    },
+    {
+      "title": "21",
+      "href": "OEBPS/Text/sonety_025.xhtml#_idParaDest-21"
+    },
+    {
+      "title": "22",
+      "href": "OEBPS/Text/sonety_026.xhtml#_idParaDest-22"
+    },
+    {
+      "title": "23",
+      "href": "OEBPS/Text/sonety_027.xhtml#_idParaDest-23"
+    },
+    {
+      "title": "24",
+      "href": "OEBPS/Text/sonety_028.xhtml#_idParaDest-24"
+    },
+    {
+      "title": "25",
+      "href": "OEBPS/Text/sonety_029.xhtml#_idParaDest-25"
+    },
+    {
+      "title": "26",
+      "href": "OEBPS/Text/sonety_030.xhtml#_idParaDest-26"
+    },
+    {
+      "title": "27",
+      "href": "OEBPS/Text/sonety_031.xhtml#_idParaDest-27"
+    },
+    {
+      "title": "28",
+      "href": "OEBPS/Text/sonety_032.xhtml#_idParaDest-28"
+    },
+    {
+      "title": "29",
+      "href": "OEBPS/Text/sonety_033.xhtml#_idParaDest-29"
+    },
+    {
+      "title": "30",
+      "href": "OEBPS/Text/sonety_034.xhtml#_idParaDest-30"
+    },
+    {
+      "title": "31",
+      "href": "OEBPS/Text/sonety_035.xhtml#_idParaDest-31"
+    },
+    {
+      "title": "32",
+      "href": "OEBPS/Text/sonety_036.xhtml#_idParaDest-32"
+    },
+    {
+      "title": "33",
+      "href": "OEBPS/Text/sonety_037.xhtml#_idParaDest-33"
+    },
+    {
+      "title": "34",
+      "href": "OEBPS/Text/sonety_038.xhtml#_idParaDest-34"
+    },
+    {
+      "title": "35",
+      "href": "OEBPS/Text/sonety_039.xhtml#_idParaDest-35"
+    },
+    {
+      "title": "36",
+      "href": "OEBPS/Text/sonety_040.xhtml#_idParaDest-36"
+    },
+    {
+      "title": "37",
+      "href": "OEBPS/Text/sonety_041.xhtml#_idParaDest-37"
+    },
+    {
+      "title": "38",
+      "href": "OEBPS/Text/sonety_042.xhtml#_idParaDest-38"
+    },
+    {
+      "title": "39",
+      "href": "OEBPS/Text/sonety_043.xhtml#_idParaDest-39"
+    },
+    {
+      "title": "40",
+      "href": "OEBPS/Text/sonety_044.xhtml#_idParaDest-40"
+    },
+    {
+      "title": "41",
+      "href": "OEBPS/Text/sonety_045.xhtml#_idParaDest-41"
+    },
+    {
+      "title": "42",
+      "href": "OEBPS/Text/sonety_046.xhtml#_idParaDest-42"
+    },
+    {
+      "title": "43",
+      "href": "OEBPS/Text/sonety_047.xhtml#_idParaDest-43"
+    },
+    {
+      "title": "44",
+      "href": "OEBPS/Text/sonety_048.xhtml#_idParaDest-44"
+    },
+    {
+      "title": "45",
+      "href": "OEBPS/Text/sonety_049.xhtml#_idParaDest-45"
+    },
+    {
+      "title": "46",
+      "href": "OEBPS/Text/sonety_050.xhtml#_idParaDest-46"
+    },
+    {
+      "title": "47",
+      "href": "OEBPS/Text/sonety_051.xhtml#_idParaDest-47"
+    },
+    {
+      "title": "48",
+      "href": "OEBPS/Text/sonety_052.xhtml#_idParaDest-48"
+    },
+    {
+      "title": "49",
+      "href": "OEBPS/Text/sonety_053.xhtml#_idParaDest-49"
+    },
+    {
+      "title": "50",
+      "href": "OEBPS/Text/sonety_054.xhtml#_idParaDest-50"
+    },
+    {
+      "title": "51",
+      "href": "OEBPS/Text/sonety_055.xhtml#_idParaDest-51"
+    },
+    {
+      "title": "52",
+      "href": "OEBPS/Text/sonety_056.xhtml#_idParaDest-52"
+    },
+    {
+      "title": "53",
+      "href": "OEBPS/Text/sonety_057.xhtml#_idParaDest-53"
+    },
+    {
+      "title": "54",
+      "href": "OEBPS/Text/sonety_058.xhtml#_idParaDest-54"
+    },
+    {
+      "title": "55",
+      "href": "OEBPS/Text/sonety_059.xhtml#_idParaDest-55"
+    },
+    {
+      "title": "56",
+      "href": "OEBPS/Text/sonety_060.xhtml#_idParaDest-56"
+    },
+    {
+      "title": "57",
+      "href": "OEBPS/Text/sonety_061.xhtml#_idParaDest-57"
+    },
+    {
+      "title": "58",
+      "href": "OEBPS/Text/sonety_062.xhtml#_idParaDest-58"
+    },
+    {
+      "title": "59",
+      "href": "OEBPS/Text/sonety_063.xhtml#_idParaDest-59"
+    },
+    {
+      "title": "60",
+      "href": "OEBPS/Text/sonety_064.xhtml#_idParaDest-60"
+    },
+    {
+      "title": "61",
+      "href": "OEBPS/Text/sonety_065.xhtml#_idParaDest-61"
+    },
+    {
+      "title": "62",
+      "href": "OEBPS/Text/sonety_066.xhtml#_idParaDest-62"
+    },
+    {
+      "title": "63",
+      "href": "OEBPS/Text/sonety_067.xhtml#_idParaDest-63"
+    },
+    {
+      "title": "64",
+      "href": "OEBPS/Text/sonety_068.xhtml#_idParaDest-64"
+    },
+    {
+      "title": "65",
+      "href": "OEBPS/Text/sonety_069.xhtml#_idParaDest-65"
+    },
+    {
+      "title": "66",
+      "href": "OEBPS/Text/sonety_070.xhtml#_idParaDest-66"
+    },
+    {
+      "title": "67",
+      "href": "OEBPS/Text/sonety_071.xhtml#_idParaDest-67"
+    },
+    {
+      "title": "68",
+      "href": "OEBPS/Text/sonety_072.xhtml#_idParaDest-68"
+    },
+    {
+      "title": "69",
+      "href": "OEBPS/Text/sonety_073.xhtml#_idParaDest-69"
+    },
+    {
+      "title": "70",
+      "href": "OEBPS/Text/sonety_074.xhtml#_idParaDest-70"
+    },
+    {
+      "title": "71",
+      "href": "OEBPS/Text/sonety_075.xhtml#_idParaDest-71"
+    },
+    {
+      "title": "72",
+      "href": "OEBPS/Text/sonety_076.xhtml#_idParaDest-72"
+    },
+    {
+      "title": "73",
+      "href": "OEBPS/Text/sonety_077.xhtml#_idParaDest-73"
+    },
+    {
+      "title": "74",
+      "href": "OEBPS/Text/sonety_078.xhtml#_idParaDest-74"
+    },
+    {
+      "title": "75",
+      "href": "OEBPS/Text/sonety_079.xhtml#_idParaDest-75"
+    },
+    {
+      "title": "76",
+      "href": "OEBPS/Text/sonety_080.xhtml#_idParaDest-76"
+    },
+    {
+      "title": "77",
+      "href": "OEBPS/Text/sonety_081.xhtml#_idParaDest-77"
+    },
+    {
+      "title": "78",
+      "href": "OEBPS/Text/sonety_082.xhtml#_idParaDest-78"
+    },
+    {
+      "title": "79",
+      "href": "OEBPS/Text/sonety_083.xhtml#_idParaDest-79"
+    },
+    {
+      "title": "80",
+      "href": "OEBPS/Text/sonety_084.xhtml#_idParaDest-80"
+    },
+    {
+      "title": "81",
+      "href": "OEBPS/Text/sonety_085.xhtml#_idParaDest-81"
+    },
+    {
+      "title": "82",
+      "href": "OEBPS/Text/sonety_086.xhtml#_idParaDest-82"
+    },
+    {
+      "title": "83",
+      "href": "OEBPS/Text/sonety_087.xhtml#_idParaDest-83"
+    },
+    {
+      "title": "84",
+      "href": "OEBPS/Text/sonety_088.xhtml#_idParaDest-84"
+    },
+    {
+      "title": "85",
+      "href": "OEBPS/Text/sonety_089.xhtml#_idParaDest-85"
+    },
+    {
+      "title": "86",
+      "href": "OEBPS/Text/sonety_090.xhtml#_idParaDest-86"
+    },
+    {
+      "title": "87",
+      "href": "OEBPS/Text/sonety_091.xhtml#_idParaDest-87"
+    },
+    {
+      "title": "88",
+      "href": "OEBPS/Text/sonety_092.xhtml#_idParaDest-88"
+    },
+    {
+      "title": "89",
+      "href": "OEBPS/Text/sonety_093.xhtml#_idParaDest-89"
+    },
+    {
+      "title": "90",
+      "href": "OEBPS/Text/sonety_094.xhtml#_idParaDest-90"
+    },
+    {
+      "title": "91",
+      "href": "OEBPS/Text/sonety_095.xhtml#_idParaDest-91"
+    },
+    {
+      "title": "92",
+      "href": "OEBPS/Text/sonety_096.xhtml#_idParaDest-92"
+    },
+    {
+      "title": "93",
+      "href": "OEBPS/Text/sonety_097.xhtml#_idParaDest-93"
+    },
+    {
+      "title": "94",
+      "href": "OEBPS/Text/sonety_098.xhtml#_idParaDest-94"
+    },
+    {
+      "title": "95",
+      "href": "OEBPS/Text/sonety_099.xhtml#_idParaDest-95"
+    },
+    {
+      "title": "96",
+      "href": "OEBPS/Text/sonety_100.xhtml#_idParaDest-96"
+    },
+    {
+      "title": "97",
+      "href": "OEBPS/Text/sonety_101.xhtml#_idParaDest-97"
+    },
+    {
+      "title": "98",
+      "href": "OEBPS/Text/sonety_102.xhtml#_idParaDest-98"
+    },
+    {
+      "title": "99",
+      "href": "OEBPS/Text/sonety_103.xhtml#_idParaDest-99"
+    },
+    {
+      "title": "100",
+      "href": "OEBPS/Text/sonety_104.xhtml#_idParaDest-100"
+    },
+    {
+      "title": "101",
+      "href": "OEBPS/Text/sonety_105.xhtml#_idParaDest-101"
+    },
+    {
+      "title": "102",
+      "href": "OEBPS/Text/sonety_106.xhtml#_idParaDest-102"
+    },
+    {
+      "title": "103",
+      "href": "OEBPS/Text/sonety_107.xhtml#_idParaDest-103"
+    },
+    {
+      "title": "104",
+      "href": "OEBPS/Text/sonety_108.xhtml#_idParaDest-104"
+    },
+    {
+      "title": "105",
+      "href": "OEBPS/Text/sonety_109.xhtml#_idParaDest-105"
+    },
+    {
+      "title": "106",
+      "href": "OEBPS/Text/sonety_110.xhtml#_idParaDest-106"
+    },
+    {
+      "title": "107",
+      "href": "OEBPS/Text/sonety_111.xhtml#_idParaDest-107"
+    },
+    {
+      "title": "108",
+      "href": "OEBPS/Text/sonety_112.xhtml#_idParaDest-108"
+    },
+    {
+      "title": "109",
+      "href": "OEBPS/Text/sonety_113.xhtml#_idParaDest-109"
+    },
+    {
+      "title": "110",
+      "href": "OEBPS/Text/sonety_114.xhtml#_idParaDest-110"
+    },
+    {
+      "title": "111",
+      "href": "OEBPS/Text/sonety_115.xhtml#_idParaDest-111"
+    },
+    {
+      "title": "112",
+      "href": "OEBPS/Text/sonety_116.xhtml#_idParaDest-112"
+    },
+    {
+      "title": "113",
+      "href": "OEBPS/Text/sonety_117.xhtml#_idParaDest-113"
+    },
+    {
+      "title": "114",
+      "href": "OEBPS/Text/sonety_118.xhtml#_idParaDest-114"
+    },
+    {
+      "title": "115",
+      "href": "OEBPS/Text/sonety_119.xhtml#_idParaDest-115"
+    },
+    {
+      "title": "116",
+      "href": "OEBPS/Text/sonety_120.xhtml#_idParaDest-116"
+    },
+    {
+      "title": "117",
+      "href": "OEBPS/Text/sonety_121.xhtml#_idParaDest-117"
+    },
+    {
+      "title": "118",
+      "href": "OEBPS/Text/sonety_122.xhtml#_idParaDest-118"
+    },
+    {
+      "title": "119",
+      "href": "OEBPS/Text/sonety_123.xhtml#_idParaDest-119"
+    },
+    {
+      "title": "120",
+      "href": "OEBPS/Text/sonety_124.xhtml#_idParaDest-120"
+    },
+    {
+      "title": "121",
+      "href": "OEBPS/Text/sonety_125.xhtml#_idParaDest-121"
+    },
+    {
+      "title": "122",
+      "href": "OEBPS/Text/sonety_126.xhtml#_idParaDest-122"
+    },
+    {
+      "title": "123",
+      "href": "OEBPS/Text/sonety_127.xhtml#_idParaDest-123"
+    },
+    {
+      "title": "124",
+      "href": "OEBPS/Text/sonety_128.xhtml#_idParaDest-124"
+    },
+    {
+      "title": "125",
+      "href": "OEBPS/Text/sonety_129.xhtml#_idParaDest-125"
+    },
+    {
+      "title": "126",
+      "href": "OEBPS/Text/sonety_130.xhtml#_idParaDest-126"
+    },
+    {
+      "title": "127",
+      "href": "OEBPS/Text/sonety_131.xhtml#_idParaDest-127"
+    },
+    {
+      "title": "128",
+      "href": "OEBPS/Text/sonety_132.xhtml#_idParaDest-128"
+    },
+    {
+      "title": "129",
+      "href": "OEBPS/Text/sonety_133.xhtml#_idParaDest-129"
+    },
+    {
+      "title": "130",
+      "href": "OEBPS/Text/sonety_134.xhtml#_idParaDest-130"
+    },
+    {
+      "title": "131",
+      "href": "OEBPS/Text/sonety_135.xhtml#_idParaDest-131"
+    },
+    {
+      "title": "132",
+      "href": "OEBPS/Text/sonety_136.xhtml#_idParaDest-132"
+    },
+    {
+      "title": "133",
+      "href": "OEBPS/Text/sonety_137.xhtml#_idParaDest-133"
+    },
+    {
+      "title": "134",
+      "href": "OEBPS/Text/sonety_138.xhtml#_idParaDest-134"
+    },
+    {
+      "title": "135",
+      "href": "OEBPS/Text/sonety_139.xhtml#_idParaDest-135"
+    },
+    {
+      "title": "136",
+      "href": "OEBPS/Text/sonety_140.xhtml#_idParaDest-136"
+    },
+    {
+      "title": "137",
+      "href": "OEBPS/Text/sonety_141.xhtml#_idParaDest-137"
+    },
+    {
+      "title": "138",
+      "href": "OEBPS/Text/sonety_142.xhtml#_idParaDest-138"
+    },
+    {
+      "title": "139",
+      "href": "OEBPS/Text/sonety_143.xhtml#_idParaDest-139"
+    },
+    {
+      "title": "140",
+      "href": "OEBPS/Text/sonety_144.xhtml#_idParaDest-140"
+    },
+    {
+      "title": "141",
+      "href": "OEBPS/Text/sonety_145.xhtml#_idParaDest-141"
+    },
+    {
+      "title": "142",
+      "href": "OEBPS/Text/sonety_146.xhtml#_idParaDest-142"
+    },
+    {
+      "title": "143",
+      "href": "OEBPS/Text/sonety_147.xhtml#_idParaDest-143"
+    },
+    {
+      "title": "144",
+      "href": "OEBPS/Text/sonety_148.xhtml#_idParaDest-144"
+    },
+    {
+      "title": "145",
+      "href": "OEBPS/Text/sonety_149.xhtml#_idParaDest-145"
+    },
+    {
+      "title": "146",
+      "href": "OEBPS/Text/sonety_150.xhtml#_idParaDest-146"
+    },
+    {
+      "title": "147",
+      "href": "OEBPS/Text/sonety_151.xhtml#_idParaDest-147"
+    },
+    {
+      "title": "148",
+      "href": "OEBPS/Text/sonety_152.xhtml#_idParaDest-148"
+    },
+    {
+      "title": "149",
+      "href": "OEBPS/Text/sonety_153.xhtml#_idParaDest-149"
+    },
+    {
+      "title": "150",
+      "href": "OEBPS/Text/sonety_154.xhtml#_idParaDest-150"
+    },
+    {
+      "title": "151",
+      "href": "OEBPS/Text/sonety_155.xhtml#_idParaDest-151"
+    },
+    {
+      "title": "152",
+      "href": "OEBPS/Text/sonety_156.xhtml#_idParaDest-152"
+    },
+    {
+      "title": "153",
+      "href": "OEBPS/Text/sonety_157.xhtml#_idParaDest-153"
+    },
+    {
+      "title": "154",
+      "href": "OEBPS/Text/sonety_158.xhtml#_idParaDest-154"
+    },
+    {
+      "title": "Poznámka překladatele",
+      "href": "OEBPS/Text/sonety_159.xhtml#_idParaDest-155"
+    }
+  ]
+}
