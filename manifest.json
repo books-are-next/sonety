@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-sonety-9838499",
-  "revision": "9838499",
+  "identifier": "shakespeare-sonety-eb3b722",
+  "revision": "eb3b722",
   "readingOrder": [
     "promo.html",
     "sonety_005.html",
@@ -170,8 +170,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 19 2022 14:12:41 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652969561058
+    "date": "Thu May 19 2022 14:22:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652970144014
   },
   "documents": [
     {
@@ -3289,9 +3289,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 139,
-      "chars": 898,
-      "ideas": 22,
+      "words": 133,
+      "chars": 851,
+      "ideas": 19,
       "role": "colophon",
       "order": null,
       "prev": "sonety_159.html",
@@ -3302,24 +3302,16 @@
           "level": 1,
           "name": "Tiráž",
           "id": null,
-          "children": [
-            {
-              "index": 1,
-              "level": 2,
-              "name": "Znění tohoto textu vychází z díla Sonety tak, jak bylo vydáno Státním nakladatelstvím krásné literatury, hudby a umění v Praze v roce 1955. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.",
-              "id": "znění-tohoto-textu-vychází-zdíla-sonety-tak-jak-bylo-vydáno-státním-nakladatelstvím-krásné-literatury-hudby-anbspumění-vpraze-vroce-1955-pro-potřeby-vydání-městské-knihovny-vpraze-byl-text-redakčně-zpracován",
-              "children": []
-            }
-          ]
+          "children": []
         }
       ]
     }
   ],
   "totals": {
     "all": {
-      "words": 18422,
-      "chars": 96849,
-      "ideas": 2357
+      "words": 18416,
+      "chars": 96802,
+      "ideas": 2354
     },
     "chapters": {
       "words": 18278,
