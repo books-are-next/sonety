@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '151'
+contentType: poetry
 ---
-
-151
 
 > Znát, co je svědomí, na to je láska mladá,  
 > třebaže svědomí se rodí právě z ní!  

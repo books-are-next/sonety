@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '61'
+contentType: poetry
 ---
-
-61
 
 > Chceš to ty, aby mi celou noc v očích stál  
 > tvůj obraz, i když mne víčka už tolik pálí?  

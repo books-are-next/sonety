@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '53'
+contentType: poetry
 ---
-
-53
 
 > Povězte, co jste zač, z čeho jste vytvořen,  
 > že tisíc stínů se tajemně víže k vám?  

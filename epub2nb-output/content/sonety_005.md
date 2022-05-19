@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '1'
+contentType: poetry
 ---
-
-1
 
 > Chceme mít potomstvo od všeho, co je krásné,  
 > aby květ krásy zde nikdy kvést nepřestal,  

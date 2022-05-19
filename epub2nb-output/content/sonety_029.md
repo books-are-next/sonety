@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '25'
+contentType: poetry
 ---
-
-25
 
 > Světskými poctami, chlubnými tituly  
 > nechať se honosí ti, kterým hvězdy přejí;  

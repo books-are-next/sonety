@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '51'
+contentType: poetry
 ---
-
-51
 
 > A proto odpouští má láska mému koni  
 > na cestě od tebe tu jeho loudavost.  

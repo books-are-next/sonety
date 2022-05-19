@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '93'
+contentType: poetry
 ---
-
-93
 
 > Tak tedy budu dál jak oklamaný muž  
 > věřit tvé věrnosti a tvoje drahá tvář  

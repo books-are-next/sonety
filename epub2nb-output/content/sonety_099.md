@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '95'
+contentType: poetry
 ---
-
-95
 
 > Jak umíš učinit milou a líbeznou  
 > tu hanbu, jež jak červ na růži ze zahrady  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '90'
+contentType: poetry
 ---
-
-90
 
 > Tož chceš-li, nenáviď mě, teď je k tomu čas,  
 > když se už proti mně postavil celý svět,  

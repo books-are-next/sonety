@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '98'
+contentType: poetry
 ---
-
-98
 
 > Daleko od vás jsem byl v oněch jarních dnech,  
 > kdy duben pyšnil se svým pestrým oděním  

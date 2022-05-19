@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '126'
+contentType: poetry
 ---
-
-126
 
 > Ó milý hochu, ty, který jsi zastavil  
 > tu kosu Času a míjivý písek chvil,  

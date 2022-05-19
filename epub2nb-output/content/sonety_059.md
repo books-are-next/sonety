@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '55'
+contentType: poetry
 ---
-
-55
 
 > Přetrvá mramory, přetrvá zlaté věže  
 > a hrobky vladařů tento můj mocný rým:  

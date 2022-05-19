@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '138'
+contentType: poetry
 ---
-
-138
 
 > Když milá přísahá, že jenom pravdu říká,  
 > věřím jí, i když vím, že to je pouhá lež,  

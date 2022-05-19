@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '6'
+contentType: poetry
 ---
-
-6
 
 > Nedovol zpustošit drsnému spáru zimy  
 > v tobě tvé léto dřív, než vydáš svoji tresť;  

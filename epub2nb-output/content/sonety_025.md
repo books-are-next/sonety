@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '21'
+contentType: poetry
 ---
-
-21
 
 > Se mnou to není, věř, tak jako s básníkem,  
 > píšícím veršíky o malované kráse,  

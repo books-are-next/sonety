@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '85'
+contentType: poetry
 ---
-
-85
 
 > Má Musa utichla v způsobném mlčení,  
 > zatím co ostatní honosné chvály dál  

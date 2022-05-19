@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '87'
+contentType: poetry
 ---
-
-87
 
 > Sbohem, jsi přespříliš drahý, abych tě měl,  
 > a potom, teď už znáš cenu své vlastní cti;  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '12'
+contentType: poetry
 ---
-
-12
 
 > Když slyším v noci zvon zvolna čas odbíjet  
 > a vidím jasný den, jak hasne v hrůzných tmách,  

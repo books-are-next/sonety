@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '118'
+contentType: poetry
 ---
-
-118
 
 > Tak jako jitříme ostrými omáčkami  
 > své patro, chceme-li lepší chuť k jídlu mít,  

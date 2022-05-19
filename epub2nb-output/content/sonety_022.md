@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '18'
+contentType: poetry
 ---
-
-18
 
 > Mám tebe k jasnému dni léta přirovnat?  
 > Není tak líbezný ani tak srdci milý:  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '26'
+contentType: poetry
 ---
-
-26
 
 > Ó pane lásky mé, do jehož vasalství  
 > je moje oddanost tak spoutána tvou ctností,  

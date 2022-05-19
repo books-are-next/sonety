@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '139'
+contentType: poetry
 ---
-
-139
 
 > Ach, nechtěj, abych tě omlouval za strasti,  
 > kterými bezcitně soužíš mé srdce ty!  

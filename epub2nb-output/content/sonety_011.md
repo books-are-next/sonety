@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '7'
+contentType: poetry
 ---
-
-7
 
 > Pohlédni k východu: když zvedne sladká zář  
 > svou hlavu z plamenů, oči všech pozemšťanů  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '108'
+contentType: poetry
 ---
-
-108
 
 > Co ještě v mozku mám, abych to běžel zapsat,  
 > s čím se ti nesvěřil dosud můj věrný duch?  

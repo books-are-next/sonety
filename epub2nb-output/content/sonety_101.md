@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '97'
+contentType: poetry
 ---
-
-97
 
 > Jak dlouhý zimní čas bylo mé odloučení,  
 > od tebe, radosti prchajícího roku.  

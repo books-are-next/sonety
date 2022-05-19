@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '30'
+contentType: poetry
 ---
-
-30
 
 > Když začnu za tichých, sladkých dum svolávat  
 > ke schůzce vzpomínky na dávno zašlý svět,  

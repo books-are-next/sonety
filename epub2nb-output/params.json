@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
       "title": "Sonety",
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "William Shakespeare",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-08-16T00:00:00.000Z"
+      "modified": "2021-08-16T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp",
+      "contentType": "poetry"
     },
     "elements": {
-      "title": "MLP_ uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola",
+      "title": "MLP_citacni_str_rozdeleni  \nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola\nMLP_uroven2_basne",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis\nMLP_uroven3_nadpis",
       "h3": "",
@@ -17,20 +21,21 @@
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
-      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
-      "brAfter": "",
+      "brBefore": "MLP_text_bez1radku \nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP_text_bez1radku_-12-0-",
+      "brAfter": "MLP-text-bez1radku--0-12\nMLP_text_bez1radku_-0-12-",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
-      "verse": "MLP-verse\nMLP-verse.+",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
-      "ignore": ""
+      "ignore": "",
+      "verse": "MLP-verse\nMLP-verse.+"
     },
     "structure": [
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "sonety_001.md",
@@ -41,7 +46,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_002.md",
@@ -52,7 +58,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_003.md",
@@ -63,7 +70,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_004.md",
@@ -74,7 +82,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_005.md",
@@ -85,7 +94,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_006.md",
@@ -96,7 +106,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_007.md",
@@ -107,7 +118,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_008.md",
@@ -118,7 +130,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_009.md",
@@ -129,7 +142,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_010.md",
@@ -140,7 +154,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_011.md",
@@ -151,7 +166,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_012.md",
@@ -162,7 +178,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_013.md",
@@ -173,7 +190,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_014.md",
@@ -184,7 +202,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_015.md",
@@ -195,7 +214,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_016.md",
@@ -206,7 +226,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_017.md",
@@ -217,7 +238,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_018.md",
@@ -228,7 +250,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_019.md",
@@ -239,7 +262,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_020.md",
@@ -250,7 +274,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_021.md",
@@ -261,7 +286,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_022.md",
@@ -272,7 +298,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_023.md",
@@ -283,7 +310,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_024.md",
@@ -294,7 +322,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_025.md",
@@ -305,7 +334,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_026.md",
@@ -316,7 +346,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_027.md",
@@ -327,7 +358,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_028.md",
@@ -338,7 +370,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_029.md",
@@ -349,7 +382,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_030.md",
@@ -360,7 +394,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_031.md",
@@ -371,7 +406,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_032.md",
@@ -382,7 +418,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_033.md",
@@ -393,7 +430,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_034.md",
@@ -404,7 +442,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_035.md",
@@ -415,7 +454,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_036.md",
@@ -426,7 +466,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_037.md",
@@ -437,7 +478,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_038.md",
@@ -448,7 +490,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_039.md",
@@ -459,7 +502,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_040.md",
@@ -470,7 +514,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_041.md",
@@ -481,7 +526,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_042.md",
@@ -492,7 +538,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_043.md",
@@ -503,7 +550,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_044.md",
@@ -514,7 +562,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_045.md",
@@ -525,7 +574,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_046.md",
@@ -536,7 +586,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_047.md",
@@ -547,7 +598,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_048.md",
@@ -558,7 +610,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_049.md",
@@ -569,7 +622,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_050.md",
@@ -580,7 +634,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_051.md",
@@ -591,7 +646,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_052.md",
@@ -602,7 +658,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_053.md",
@@ -613,7 +670,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_054.md",
@@ -624,7 +682,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_055.md",
@@ -635,7 +694,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_056.md",
@@ -646,7 +706,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_057.md",
@@ -657,7 +718,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_058.md",
@@ -668,7 +730,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_059.md",
@@ -679,7 +742,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_060.md",
@@ -690,7 +754,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_061.md",
@@ -701,7 +766,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_062.md",
@@ -712,7 +778,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_063.md",
@@ -723,7 +790,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_064.md",
@@ -734,7 +802,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_065.md",
@@ -745,7 +814,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_066.md",
@@ -756,7 +826,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_067.md",
@@ -767,7 +838,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_068.md",
@@ -778,7 +850,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_069.md",
@@ -789,7 +862,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_070.md",
@@ -800,7 +874,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_071.md",
@@ -811,7 +886,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_072.md",
@@ -822,7 +898,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_073.md",
@@ -833,7 +910,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_074.md",
@@ -844,7 +922,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_075.md",
@@ -855,7 +934,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_076.md",
@@ -866,7 +946,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_077.md",
@@ -877,7 +958,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_078.md",
@@ -888,7 +970,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_079.md",
@@ -899,7 +982,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_080.md",
@@ -910,7 +994,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_081.md",
@@ -921,7 +1006,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_082.md",
@@ -932,7 +1018,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_083.md",
@@ -943,7 +1030,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_084.md",
@@ -954,7 +1042,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_085.md",
@@ -965,7 +1054,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_086.md",
@@ -976,7 +1066,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_087.md",
@@ -987,7 +1078,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_088.md",
@@ -998,7 +1090,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_089.md",
@@ -1009,7 +1102,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_090.md",
@@ -1020,7 +1114,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_091.md",
@@ -1031,7 +1126,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_092.md",
@@ -1042,7 +1138,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_093.md",
@@ -1053,7 +1150,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_094.md",
@@ -1064,7 +1162,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_095.md",
@@ -1075,7 +1174,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_096.md",
@@ -1086,7 +1186,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_097.md",
@@ -1097,7 +1198,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_098.md",
@@ -1108,7 +1210,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_099.md",
@@ -1119,7 +1222,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_100.md",
@@ -1130,7 +1234,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_101.md",
@@ -1141,7 +1246,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_102.md",
@@ -1152,7 +1258,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_103.md",
@@ -1163,7 +1270,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_104.md",
@@ -1174,7 +1282,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_105.md",
@@ -1185,7 +1294,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_106.md",
@@ -1196,7 +1306,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_107.md",
@@ -1207,7 +1318,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_108.md",
@@ -1218,7 +1330,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_109.md",
@@ -1229,7 +1342,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_110.md",
@@ -1240,7 +1354,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_111.md",
@@ -1251,7 +1366,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_112.md",
@@ -1262,7 +1378,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_113.md",
@@ -1273,7 +1390,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_114.md",
@@ -1284,7 +1402,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_115.md",
@@ -1295,7 +1414,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_116.md",
@@ -1306,7 +1426,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_117.md",
@@ -1317,7 +1438,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_118.md",
@@ -1328,7 +1450,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_119.md",
@@ -1339,7 +1462,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_120.md",
@@ -1350,7 +1474,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_121.md",
@@ -1361,7 +1486,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_122.md",
@@ -1372,7 +1498,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_123.md",
@@ -1383,7 +1510,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_124.md",
@@ -1394,7 +1522,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_125.md",
@@ -1405,7 +1534,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_126.md",
@@ -1416,7 +1546,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_127.md",
@@ -1427,7 +1558,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_128.md",
@@ -1438,7 +1570,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_129.md",
@@ -1449,7 +1582,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_130.md",
@@ -1460,7 +1594,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_131.md",
@@ -1471,7 +1606,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_132.md",
@@ -1482,7 +1618,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_133.md",
@@ -1493,7 +1630,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_134.md",
@@ -1504,7 +1642,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_135.md",
@@ -1515,7 +1654,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_136.md",
@@ -1526,7 +1666,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_137.md",
@@ -1537,7 +1678,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_138.md",
@@ -1548,7 +1690,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_139.md",
@@ -1559,7 +1702,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_140.md",
@@ -1570,7 +1714,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_141.md",
@@ -1581,7 +1726,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_142.md",
@@ -1592,7 +1738,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_143.md",
@@ -1603,7 +1750,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_144.md",
@@ -1614,7 +1762,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_145.md",
@@ -1625,7 +1774,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_146.md",
@@ -1636,7 +1786,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_147.md",
@@ -1647,7 +1798,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_148.md",
@@ -1658,7 +1810,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_149.md",
@@ -1669,7 +1822,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_150.md",
@@ -1680,7 +1834,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_151.md",
@@ -1691,7 +1846,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_152.md",
@@ -1702,7 +1858,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_153.md",
@@ -1713,7 +1870,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_154.md",
@@ -1724,7 +1882,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_155.md",
@@ -1735,7 +1894,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_156.md",
@@ -1746,7 +1906,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_157.md",
@@ -1757,7 +1918,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_158.md",
@@ -1768,7 +1930,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_159.md",
@@ -1779,7 +1942,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "sonety_160.md",
@@ -1790,7 +1954,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -1824,931 +1989,931 @@
         "xhtml": "sonety_003.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Znění tohoto textu vychází z díla Sonety tak, jak bylo vydáno Státním nakladatelstvím krásné literatury, hudby a umění v Praze v roce 1955\\. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován\\.",
         "subtitleSuggest": "",
         "filename": "sonety_004.md",
         "xhtml": "sonety_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "1",
         "subtitleSuggest": "",
         "filename": "sonety_005.md",
         "xhtml": "sonety_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "2",
         "subtitleSuggest": "",
         "filename": "sonety_006.md",
         "xhtml": "sonety_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "3",
         "subtitleSuggest": "",
         "filename": "sonety_007.md",
         "xhtml": "sonety_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "4",
         "subtitleSuggest": "",
         "filename": "sonety_008.md",
         "xhtml": "sonety_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "5",
         "subtitleSuggest": "",
         "filename": "sonety_009.md",
         "xhtml": "sonety_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "6",
         "subtitleSuggest": "",
         "filename": "sonety_010.md",
         "xhtml": "sonety_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "7",
         "subtitleSuggest": "",
         "filename": "sonety_011.md",
         "xhtml": "sonety_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "8",
         "subtitleSuggest": "",
         "filename": "sonety_012.md",
         "xhtml": "sonety_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "9",
         "subtitleSuggest": "",
         "filename": "sonety_013.md",
         "xhtml": "sonety_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "10",
         "subtitleSuggest": "",
         "filename": "sonety_014.md",
         "xhtml": "sonety_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "11",
         "subtitleSuggest": "",
         "filename": "sonety_015.md",
         "xhtml": "sonety_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "12",
         "subtitleSuggest": "",
         "filename": "sonety_016.md",
         "xhtml": "sonety_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "13",
         "subtitleSuggest": "",
         "filename": "sonety_017.md",
         "xhtml": "sonety_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "14",
         "subtitleSuggest": "",
         "filename": "sonety_018.md",
         "xhtml": "sonety_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "15",
         "subtitleSuggest": "",
         "filename": "sonety_019.md",
         "xhtml": "sonety_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "16",
         "subtitleSuggest": "",
         "filename": "sonety_020.md",
         "xhtml": "sonety_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "17",
         "subtitleSuggest": "",
         "filename": "sonety_021.md",
         "xhtml": "sonety_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "18",
         "subtitleSuggest": "",
         "filename": "sonety_022.md",
         "xhtml": "sonety_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "19",
         "subtitleSuggest": "",
         "filename": "sonety_023.md",
         "xhtml": "sonety_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "20",
         "subtitleSuggest": "",
         "filename": "sonety_024.md",
         "xhtml": "sonety_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "21",
         "subtitleSuggest": "",
         "filename": "sonety_025.md",
         "xhtml": "sonety_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "22",
         "subtitleSuggest": "",
         "filename": "sonety_026.md",
         "xhtml": "sonety_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "23",
         "subtitleSuggest": "",
         "filename": "sonety_027.md",
         "xhtml": "sonety_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "24",
         "subtitleSuggest": "",
         "filename": "sonety_028.md",
         "xhtml": "sonety_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "25",
         "subtitleSuggest": "",
         "filename": "sonety_029.md",
         "xhtml": "sonety_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "26",
         "subtitleSuggest": "",
         "filename": "sonety_030.md",
         "xhtml": "sonety_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "27",
         "subtitleSuggest": "",
         "filename": "sonety_031.md",
         "xhtml": "sonety_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "28",
         "subtitleSuggest": "",
         "filename": "sonety_032.md",
         "xhtml": "sonety_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "29",
         "subtitleSuggest": "",
         "filename": "sonety_033.md",
         "xhtml": "sonety_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "30",
         "subtitleSuggest": "",
         "filename": "sonety_034.md",
         "xhtml": "sonety_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "31",
         "subtitleSuggest": "",
         "filename": "sonety_035.md",
         "xhtml": "sonety_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "32",
         "subtitleSuggest": "",
         "filename": "sonety_036.md",
         "xhtml": "sonety_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "33",
         "subtitleSuggest": "",
         "filename": "sonety_037.md",
         "xhtml": "sonety_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "34",
         "subtitleSuggest": "",
         "filename": "sonety_038.md",
         "xhtml": "sonety_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "35",
         "subtitleSuggest": "",
         "filename": "sonety_039.md",
         "xhtml": "sonety_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "36",
         "subtitleSuggest": "",
         "filename": "sonety_040.md",
         "xhtml": "sonety_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "37",
         "subtitleSuggest": "",
         "filename": "sonety_041.md",
         "xhtml": "sonety_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "38",
         "subtitleSuggest": "",
         "filename": "sonety_042.md",
         "xhtml": "sonety_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "39",
         "subtitleSuggest": "",
         "filename": "sonety_043.md",
         "xhtml": "sonety_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "40",
         "subtitleSuggest": "",
         "filename": "sonety_044.md",
         "xhtml": "sonety_044.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "41",
         "subtitleSuggest": "",
         "filename": "sonety_045.md",
         "xhtml": "sonety_045.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "42",
         "subtitleSuggest": "",
         "filename": "sonety_046.md",
         "xhtml": "sonety_046.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "43",
         "subtitleSuggest": "",
         "filename": "sonety_047.md",
         "xhtml": "sonety_047.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "44",
         "subtitleSuggest": "",
         "filename": "sonety_048.md",
         "xhtml": "sonety_048.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "45",
         "subtitleSuggest": "",
         "filename": "sonety_049.md",
         "xhtml": "sonety_049.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "46",
         "subtitleSuggest": "",
         "filename": "sonety_050.md",
         "xhtml": "sonety_050.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "47",
         "subtitleSuggest": "",
         "filename": "sonety_051.md",
         "xhtml": "sonety_051.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "48",
         "subtitleSuggest": "",
         "filename": "sonety_052.md",
         "xhtml": "sonety_052.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "49",
         "subtitleSuggest": "",
         "filename": "sonety_053.md",
         "xhtml": "sonety_053.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "50",
         "subtitleSuggest": "",
         "filename": "sonety_054.md",
         "xhtml": "sonety_054.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "51",
         "subtitleSuggest": "",
         "filename": "sonety_055.md",
         "xhtml": "sonety_055.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "52",
         "subtitleSuggest": "",
         "filename": "sonety_056.md",
         "xhtml": "sonety_056.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "53",
         "subtitleSuggest": "",
         "filename": "sonety_057.md",
         "xhtml": "sonety_057.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "54",
         "subtitleSuggest": "",
         "filename": "sonety_058.md",
         "xhtml": "sonety_058.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "55",
         "subtitleSuggest": "",
         "filename": "sonety_059.md",
         "xhtml": "sonety_059.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "56",
         "subtitleSuggest": "",
         "filename": "sonety_060.md",
         "xhtml": "sonety_060.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "57",
         "subtitleSuggest": "",
         "filename": "sonety_061.md",
         "xhtml": "sonety_061.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "58",
         "subtitleSuggest": "",
         "filename": "sonety_062.md",
         "xhtml": "sonety_062.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "59",
         "subtitleSuggest": "",
         "filename": "sonety_063.md",
         "xhtml": "sonety_063.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "60",
         "subtitleSuggest": "",
         "filename": "sonety_064.md",
         "xhtml": "sonety_064.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "61",
         "subtitleSuggest": "",
         "filename": "sonety_065.md",
         "xhtml": "sonety_065.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "62",
         "subtitleSuggest": "",
         "filename": "sonety_066.md",
         "xhtml": "sonety_066.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "63",
         "subtitleSuggest": "",
         "filename": "sonety_067.md",
         "xhtml": "sonety_067.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "64",
         "subtitleSuggest": "",
         "filename": "sonety_068.md",
         "xhtml": "sonety_068.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "65",
         "subtitleSuggest": "",
         "filename": "sonety_069.md",
         "xhtml": "sonety_069.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "66",
         "subtitleSuggest": "",
         "filename": "sonety_070.md",
         "xhtml": "sonety_070.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "67",
         "subtitleSuggest": "",
         "filename": "sonety_071.md",
         "xhtml": "sonety_071.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "68",
         "subtitleSuggest": "",
         "filename": "sonety_072.md",
         "xhtml": "sonety_072.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "69",
         "subtitleSuggest": "",
         "filename": "sonety_073.md",
         "xhtml": "sonety_073.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "70",
         "subtitleSuggest": "",
         "filename": "sonety_074.md",
         "xhtml": "sonety_074.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "71",
         "subtitleSuggest": "",
         "filename": "sonety_075.md",
         "xhtml": "sonety_075.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "72",
         "subtitleSuggest": "",
         "filename": "sonety_076.md",
         "xhtml": "sonety_076.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "73",
         "subtitleSuggest": "",
         "filename": "sonety_077.md",
         "xhtml": "sonety_077.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "74",
         "subtitleSuggest": "",
         "filename": "sonety_078.md",
         "xhtml": "sonety_078.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "75",
         "subtitleSuggest": "",
         "filename": "sonety_079.md",
         "xhtml": "sonety_079.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "76",
         "subtitleSuggest": "",
         "filename": "sonety_080.md",
         "xhtml": "sonety_080.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "77",
         "subtitleSuggest": "",
         "filename": "sonety_081.md",
         "xhtml": "sonety_081.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "78",
         "subtitleSuggest": "",
         "filename": "sonety_082.md",
         "xhtml": "sonety_082.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "79",
         "subtitleSuggest": "",
         "filename": "sonety_083.md",
         "xhtml": "sonety_083.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "80",
         "subtitleSuggest": "",
         "filename": "sonety_084.md",
         "xhtml": "sonety_084.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "81",
         "subtitleSuggest": "",
         "filename": "sonety_085.md",
         "xhtml": "sonety_085.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "82",
         "subtitleSuggest": "",
         "filename": "sonety_086.md",
         "xhtml": "sonety_086.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "83",
         "subtitleSuggest": "",
         "filename": "sonety_087.md",
         "xhtml": "sonety_087.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "84",
         "subtitleSuggest": "",
         "filename": "sonety_088.md",
         "xhtml": "sonety_088.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "85",
         "subtitleSuggest": "",
         "filename": "sonety_089.md",
         "xhtml": "sonety_089.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "86",
         "subtitleSuggest": "",
         "filename": "sonety_090.md",
         "xhtml": "sonety_090.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "87",
         "subtitleSuggest": "",
         "filename": "sonety_091.md",
         "xhtml": "sonety_091.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "88",
         "subtitleSuggest": "",
         "filename": "sonety_092.md",
         "xhtml": "sonety_092.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "89",
         "subtitleSuggest": "",
         "filename": "sonety_093.md",
         "xhtml": "sonety_093.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "90",
         "subtitleSuggest": "",
         "filename": "sonety_094.md",
         "xhtml": "sonety_094.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "91",
         "subtitleSuggest": "",
         "filename": "sonety_095.md",
         "xhtml": "sonety_095.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "92",
         "subtitleSuggest": "",
         "filename": "sonety_096.md",
         "xhtml": "sonety_096.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "93",
         "subtitleSuggest": "",
         "filename": "sonety_097.md",
         "xhtml": "sonety_097.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "94",
         "subtitleSuggest": "",
         "filename": "sonety_098.md",
         "xhtml": "sonety_098.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "95",
         "subtitleSuggest": "",
         "filename": "sonety_099.md",
         "xhtml": "sonety_099.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "96",
         "subtitleSuggest": "",
         "filename": "sonety_100.md",
         "xhtml": "sonety_100.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "97",
         "subtitleSuggest": "",
         "filename": "sonety_101.md",
         "xhtml": "sonety_101.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "98",
         "subtitleSuggest": "",
         "filename": "sonety_102.md",
         "xhtml": "sonety_102.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "99",
         "subtitleSuggest": "",
         "filename": "sonety_103.md",
         "xhtml": "sonety_103.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "100",
         "subtitleSuggest": "",
         "filename": "sonety_104.md",
         "xhtml": "sonety_104.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "101",
         "subtitleSuggest": "",
         "filename": "sonety_105.md",
         "xhtml": "sonety_105.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "102",
         "subtitleSuggest": "",
         "filename": "sonety_106.md",
         "xhtml": "sonety_106.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "103",
         "subtitleSuggest": "",
         "filename": "sonety_107.md",
         "xhtml": "sonety_107.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "104",
         "subtitleSuggest": "",
         "filename": "sonety_108.md",
         "xhtml": "sonety_108.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "105",
         "subtitleSuggest": "",
         "filename": "sonety_109.md",
         "xhtml": "sonety_109.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "106",
         "subtitleSuggest": "",
         "filename": "sonety_110.md",
         "xhtml": "sonety_110.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "107",
         "subtitleSuggest": "",
         "filename": "sonety_111.md",
         "xhtml": "sonety_111.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "108",
         "subtitleSuggest": "",
         "filename": "sonety_112.md",
         "xhtml": "sonety_112.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "109",
         "subtitleSuggest": "",
         "filename": "sonety_113.md",
         "xhtml": "sonety_113.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "110",
         "subtitleSuggest": "",
         "filename": "sonety_114.md",
         "xhtml": "sonety_114.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "111",
         "subtitleSuggest": "",
         "filename": "sonety_115.md",
         "xhtml": "sonety_115.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "112",
         "subtitleSuggest": "",
         "filename": "sonety_116.md",
         "xhtml": "sonety_116.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "113",
         "subtitleSuggest": "",
         "filename": "sonety_117.md",
         "xhtml": "sonety_117.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "114",
         "subtitleSuggest": "",
         "filename": "sonety_118.md",
         "xhtml": "sonety_118.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "115",
         "subtitleSuggest": "",
         "filename": "sonety_119.md",
         "xhtml": "sonety_119.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "116",
         "subtitleSuggest": "",
         "filename": "sonety_120.md",
         "xhtml": "sonety_120.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "117",
         "subtitleSuggest": "",
         "filename": "sonety_121.md",
         "xhtml": "sonety_121.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "118",
         "subtitleSuggest": "",
         "filename": "sonety_122.md",
         "xhtml": "sonety_122.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "119",
         "subtitleSuggest": "",
         "filename": "sonety_123.md",
         "xhtml": "sonety_123.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "120",
         "subtitleSuggest": "",
         "filename": "sonety_124.md",
         "xhtml": "sonety_124.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "121",
         "subtitleSuggest": "",
         "filename": "sonety_125.md",
         "xhtml": "sonety_125.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "122",
         "subtitleSuggest": "",
         "filename": "sonety_126.md",
         "xhtml": "sonety_126.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "123",
         "subtitleSuggest": "",
         "filename": "sonety_127.md",
         "xhtml": "sonety_127.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "124",
         "subtitleSuggest": "",
         "filename": "sonety_128.md",
         "xhtml": "sonety_128.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "125",
         "subtitleSuggest": "",
         "filename": "sonety_129.md",
         "xhtml": "sonety_129.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "126",
         "subtitleSuggest": "",
         "filename": "sonety_130.md",
         "xhtml": "sonety_130.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "127",
         "subtitleSuggest": "",
         "filename": "sonety_131.md",
         "xhtml": "sonety_131.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "128",
         "subtitleSuggest": "",
         "filename": "sonety_132.md",
         "xhtml": "sonety_132.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "129",
         "subtitleSuggest": "",
         "filename": "sonety_133.md",
         "xhtml": "sonety_133.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "130",
         "subtitleSuggest": "",
         "filename": "sonety_134.md",
         "xhtml": "sonety_134.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "131",
         "subtitleSuggest": "",
         "filename": "sonety_135.md",
         "xhtml": "sonety_135.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "132",
         "subtitleSuggest": "",
         "filename": "sonety_136.md",
         "xhtml": "sonety_136.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "133",
         "subtitleSuggest": "",
         "filename": "sonety_137.md",
         "xhtml": "sonety_137.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "134",
         "subtitleSuggest": "",
         "filename": "sonety_138.md",
         "xhtml": "sonety_138.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "135",
         "subtitleSuggest": "",
         "filename": "sonety_139.md",
         "xhtml": "sonety_139.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "136",
         "subtitleSuggest": "",
         "filename": "sonety_140.md",
         "xhtml": "sonety_140.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "137",
         "subtitleSuggest": "",
         "filename": "sonety_141.md",
         "xhtml": "sonety_141.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "138",
         "subtitleSuggest": "",
         "filename": "sonety_142.md",
         "xhtml": "sonety_142.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "139",
         "subtitleSuggest": "",
         "filename": "sonety_143.md",
         "xhtml": "sonety_143.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "140",
         "subtitleSuggest": "",
         "filename": "sonety_144.md",
         "xhtml": "sonety_144.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "141",
         "subtitleSuggest": "",
         "filename": "sonety_145.md",
         "xhtml": "sonety_145.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "142",
         "subtitleSuggest": "",
         "filename": "sonety_146.md",
         "xhtml": "sonety_146.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "143",
         "subtitleSuggest": "",
         "filename": "sonety_147.md",
         "xhtml": "sonety_147.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "144",
         "subtitleSuggest": "",
         "filename": "sonety_148.md",
         "xhtml": "sonety_148.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "145",
         "subtitleSuggest": "",
         "filename": "sonety_149.md",
         "xhtml": "sonety_149.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "146",
         "subtitleSuggest": "",
         "filename": "sonety_150.md",
         "xhtml": "sonety_150.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "147",
         "subtitleSuggest": "",
         "filename": "sonety_151.md",
         "xhtml": "sonety_151.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "148",
         "subtitleSuggest": "",
         "filename": "sonety_152.md",
         "xhtml": "sonety_152.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "149",
         "subtitleSuggest": "",
         "filename": "sonety_153.md",
         "xhtml": "sonety_153.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "150",
         "subtitleSuggest": "",
         "filename": "sonety_154.md",
         "xhtml": "sonety_154.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "151",
         "subtitleSuggest": "",
         "filename": "sonety_155.md",
         "xhtml": "sonety_155.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "152",
         "subtitleSuggest": "",
         "filename": "sonety_156.md",
         "xhtml": "sonety_156.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "153",
         "subtitleSuggest": "",
         "filename": "sonety_157.md",
         "xhtml": "sonety_157.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "154",
         "subtitleSuggest": "",
         "filename": "sonety_158.md",
         "xhtml": "sonety_158.xhtml"
@@ -2851,6 +3016,6 @@
       "user": "books-are-next",
       "repo": "sonety"
     },
-    "generatedAt": 1652968054866
+    "generatedAt": 1652969028474
   }
 }

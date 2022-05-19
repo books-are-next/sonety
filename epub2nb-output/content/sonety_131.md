@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '127'
+contentType: poetry
 ---
-
-127
 
 > Dříve svět v černé nic krásného neviděl,  
 > a pokud viděl snad, neříkal tomu krása;  

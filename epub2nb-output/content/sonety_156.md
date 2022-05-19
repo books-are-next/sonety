@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '152'
+contentType: poetry
 ---
-
-152
 
 > Ty víš, že přísaha mé lásky byla lež,  
 > tys ale podvakrát mně přísahala křivě:  

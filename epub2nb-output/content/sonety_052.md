@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '48'
+contentType: poetry
 ---
-
-48
 
 > Co jsem se nastaral, když jsem měl odejet,  
 > abych dal pod zámek i každou tretku v domě  

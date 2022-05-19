@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '112'
+contentType: poetry
 ---
-
-112
 
 > Láskou a soustrastí vy stíráte s mých skrání  
 > znamení potupy, jež mi dav vypálil.  

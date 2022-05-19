@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '105'
+contentType: poetry
 ---
-
-105
 
 > Neříkejte, že má láska je modlářství,  
 > netvrďte, že je mou modlou tvář miláčkova,  

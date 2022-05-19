@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '129'
+contentType: poetry
 ---
-
-129
 
 > Mrhání ducha v tmách hanebné marnosti,  
 > to je chtíč při činu; a než chtíč uzrá v čin,  

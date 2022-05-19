@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '81'
+contentType: poetry
 ---
-
-81
 
 > Snad já vám budu psát náhrobní nápis jednou,  
 > snad vy žít budete a mne už pojme hrob;  

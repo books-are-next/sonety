@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '128'
+contentType: poetry
 ---
-
-128
 
 > Kdykoliv, hudbo má, začínáš hudbu hrát  
 > na blahém nástroji a v dotýkání sladkém  

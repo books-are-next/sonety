@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '119'
+contentType: poetry
 ---
-
-119
 
 > Co jsem to za léky pil ze slz Siréniných,  
 > vařených v křivulích, černých jak samo peklo!  

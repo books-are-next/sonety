@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '42'
+contentType: poetry
 ---
-
-42
 
 > To, že je ona tvá, není vše, co mne mučí —  
 > a věru, příteli, měl jsem ji z duše rád.  

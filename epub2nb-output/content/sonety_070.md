@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '66'
+contentType: poetry
 ---
-
-66
 
 > Znaven, ach, znaven vším, já volám smrt a klid,  
 > když vidím zásluhy rodit se u žebráka,  

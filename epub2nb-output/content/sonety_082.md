@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '78'
+contentType: poetry
 ---
-
-78
 
 > Tolikrát vzýval jsem tě jako Musu, milý,  
 > a tys mi při psaní tak dobře pomáhal,  

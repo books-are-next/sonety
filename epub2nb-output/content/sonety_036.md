@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '32'
+contentType: poetry
 ---
-
-32
 
 > Jestliže přežiješ ten vytoužený den,  
 > až Smrt, ten chrt, můj prach posbírá do uzlíku,  

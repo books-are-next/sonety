@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '3'
+contentType: poetry
 ---
-
-3
 
 > Nakloň se k zrcadlu a řekni tváři v něm,  
 > že už má na čase vytvořit jinou v krátku;  

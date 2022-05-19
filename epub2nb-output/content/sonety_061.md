@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '57'
+contentType: poetry
 ---
-
-57
 
 > Co mohu dělat já, váš rab, než zas a zas  
 > čekat zde na chvíle, na dny, kdy něco chcete?  

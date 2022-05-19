@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '122'
+contentType: poetry
 ---
-
-122
 
 > Tvůj dar, ten zápisník, je uložen v mé hlavě  
 > a popsán trvalým písmem mých vzpomínek,  

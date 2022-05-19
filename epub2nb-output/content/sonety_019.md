@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '15'
+contentType: poetry
 ---
-
-15
 
 > Když povážím, že vše, co zrodí tato zem,  
 > vždy jenom okamžik v plnosti může kvést,  

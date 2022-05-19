@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '123'
+contentType: poetry
 ---
-
-123
 
 > Ne, Čase, nechlub se, že se já měním taky:  
 > i když se zvedají tvé věže sebevýš,  

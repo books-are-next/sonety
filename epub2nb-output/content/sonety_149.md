@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '145'
+contentType: poetry
 ---
-
-145
 
 > Ústy, jež stvořila láska svou vlastní rukou,  
 > vydechla proti mně: „Ach, cítím nenávist,“  

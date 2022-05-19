@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '64'
+contentType: poetry
 ---
-
-64
 
 > A když jsem viděl Čas ukrutnou rukou rvát  
 > pýchu a nádheru těch dávno zašlých dob,  

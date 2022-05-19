@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '37'
+contentType: poetry
 ---
-
-37
 
 > Tak jako sleduje otec, jenž zestaral,  
 > mladistvé rozlety svých dětí potěšeně,  

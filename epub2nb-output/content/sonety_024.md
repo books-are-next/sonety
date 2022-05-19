@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '20'
+contentType: poetry
 ---
-
-20
 
 > Ó pane-paní mé lásky, máš líce ženy,  
 > vlastníma rukama Přírody malované;  

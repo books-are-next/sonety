@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '39'
+contentType: poetry
 ---
-
-39
 
 > Jak mohu opěvat, můj drahý, se ctí tebe,  
 > když ty sám nejsi nic nežli můj lepší díl?  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '62'
+contentType: poetry
 ---
-
-62
 
 > Hřích sebelásky se zmocnil mých pohledů,  
 > mé celé duše a každé mé částečky;  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '79'
+contentType: poetry
 ---
-
-79
 
 > Dokud jsem o pomoc tě prosil jenom já,  
 > tvá krása krášlila všechna jen moje rýmy;  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '72'
+contentType: poetry
 ---
-
-72
 
 > Aby vás jednou svět nenutil vyprávět,  
 > čím jsem si zasloužil, že jste mne miloval,  

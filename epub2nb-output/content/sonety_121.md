@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '117'
+contentType: poetry
 ---
-
-117
 
 > Ach, jen mne obviňte, že jsem tak skrblil tím,  
 > čím jsem měl splácet dluh za vaši velkou lásku;  

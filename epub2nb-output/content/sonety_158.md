@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '154'
+contentType: poetry
 ---
-
-154
 
 > Když jednou usnul sám bůh Lásky na chvíli,  
 > po boku pochodeň, jež srdce zažíhala,  

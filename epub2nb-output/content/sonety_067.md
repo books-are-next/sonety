@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '63'
+contentType: poetry
 ---
-
-63
 
 > Pro tu zlou chvíli, až surová ruka Času  
 > rozdrtí milého, jako teď drtí mne,  

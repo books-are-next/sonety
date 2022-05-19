@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '134'
+contentType: poetry
 ---
-
-134
 
 > Tak, teď jsem přiznal už, že je tvůj, moje milá,  
 > a já sám v zástavě tvé vůle tady zbyl;  

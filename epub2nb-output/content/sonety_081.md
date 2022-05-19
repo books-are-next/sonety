@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '77'
+contentType: poetry
 ---
-
-77
 
 > Zrcadlo poví ti, jak tvoje krása prchá,  
 > hodiny řeknou ti, jak mizí tvoje dni;  

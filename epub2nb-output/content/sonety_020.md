@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '16'
+contentType: poetry
 ---
-
-16
 
 > Proč ale nechcete bojovat líp a snáze  
 > s Časem, tím vladařem krutým a krvavým,  

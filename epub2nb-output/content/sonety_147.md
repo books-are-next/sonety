@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '143'
+contentType: poetry
 ---
-
-143
 
 > Tak jako utíká pečlivá hospodyně,  
 > když honí doma své rozprchlé pernatce,  

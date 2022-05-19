@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '70'
+contentType: poetry
 ---
-
-70
 
 > Že se ti vyčítá, to tvoje vada není,  
 > protože krása je vždy terčem pomluvy;  

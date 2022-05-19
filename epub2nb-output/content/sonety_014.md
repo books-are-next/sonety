@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '10'
+contentType: poetry
 ---
-
-10
 
 > Přiznej k své hanbě, že nemáš cit pro nikoho,  
 > ty k sobě samému stále tak bezcitný.  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '8'
+contentType: poetry
 ---
-
-8
 
 > Proč, hudbo pro poslech, nasloucháš hudbě smutná?  
 > Což hyne slastí slast a štěstím štěstí snad?  

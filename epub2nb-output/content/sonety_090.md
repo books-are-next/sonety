@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '86'
+contentType: poetry
 ---
-
-86
 
 > Byl to snad jeho verš, plující v plné slávě  
 > jako loď za vzácným pokladem, jímž jste vy,  

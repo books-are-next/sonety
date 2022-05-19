@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '103'
+contentType: poetry
 ---
-
-103
 
 > Ach, co to rodí jen má Musa za bědnost,  
 > ač měla na čem se ukázat v plném jasu!  

@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '46'
+contentType: poetry
 ---
-
-46
 
 > Mé srdce a můj zrak jsou ve smrtelném boji,  
 > jak se teď o tvoji podobu rozdělit;  

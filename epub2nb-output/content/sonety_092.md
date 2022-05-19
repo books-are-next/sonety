@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '88'
+contentType: poetry
 ---
-
-88
 
 > Až jednou začneš mé zásluhy zlehčovat  
 > a shlížet na mne jen očima pohrdání,  

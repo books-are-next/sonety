@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '56'
+contentType: poetry
 ---
-
-56
 
 > Ach, obnov svoji moc, lásko, ať neříkají,  
 > že tvoje ostří je tupější nežli hlad,  

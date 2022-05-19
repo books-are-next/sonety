@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '130'
+contentType: poetry
 ---
-
-130
 
 > Oči mé paní jsou všechno jen slunce ne;  
 > korál je sytější než červeň jejích úst;  

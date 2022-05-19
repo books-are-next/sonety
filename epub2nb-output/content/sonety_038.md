@@ -1,9 +1,7 @@
 ---
-title: ''
-contentType: prose
+title: '34'
+contentType: poetry
 ---
-
-34
 
 > Pročpak jsi sliboval krásný den bez oblaků,  
 > proč jsi mne nechal jít bez pláště na cesty,  
