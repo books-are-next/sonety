@@ -3,6 +3,8 @@ title: '10'
 contentType: poetry
 ---
 
+<section>
+
 > Přiznej k své hanbě, že nemáš cit pro nikoho,  
 > ty k sobě samému stále tak bezcitný.  
 > Popři, že tebe jich miluje tady mnoho,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a snaž se alespoň sám k sobě obměkčit.  
 >          Vytvoř už kvůli mně, milý, své druhé já,  
 >          ať krása ve tvých a v tobě smrt přetrvá.
+
+</section>

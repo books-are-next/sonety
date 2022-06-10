@@ -3,6 +3,8 @@ title: '18'
 contentType: poetry
 ---
 
+<section>
+
 > Mám tebe k jasnému dni léta přirovnat?  
 > Není tak líbezný ani tak srdci milý:  
 > vždyť v máji vichr se opírá do poupat  
@@ -17,3 +19,5 @@ contentType: poetry
 > v mých věčných verších tu přetrváš všechny časy;  
 >          vždyť dokud bude zde žít a číst kdokoliv,  
 >          dotud zde budeš ty v mých slovech také živ.
+
+</section>

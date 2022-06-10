@@ -3,6 +3,8 @@ title: '76'
 contentType: poetry
 ---
 
+<section>
+
 > Proč jsou mé verše tak chudé na novou krásu,  
 > pročpak jim chybí vzruch a stále nový dech?  
 > Pročpak se nepídím — abych šel s duchem času —  
@@ -17,3 +19,5 @@ contentType: poetry
 > a dávat poznovu, co jsem již dávno dal.  
 >          Slova mé lásky jsou jak slunko na nebi,  
 >          každý den staré a přece zas nové vždy.
+
+</section>

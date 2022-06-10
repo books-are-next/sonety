@@ -3,6 +3,8 @@ title: '125'
 contentType: poetry
 ---
 
+<section>
+
 > Cožpak bych neuměl vznést baldachýny cti  
 > a pouhým zevnějškem tak uctít vnější zdání,  
 > nebo klást veliké základny k věčnosti,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a dává jenom mne za tebe v každé době.  
 >          Pryč, zrádný žalobce! Čím víc ji udáváš,  
 >          tím menší pravomoc nad věrnou duší máš!
+
+</section>

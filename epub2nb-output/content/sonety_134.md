@@ -3,6 +3,8 @@ title: '130'
 contentType: poetry
 ---
 
+<section>
+
 > Oči mé paní jsou všechno jen slunce ne;  
 > korál je sytější než červeň jejích úst;  
 > je-li sníh bělostný, její hruď černá je;  
@@ -17,3 +19,5 @@ contentType: poetry
 > když však má paní jde, plouhá se po zemi.  
 >          A přesto myslím si, že vyrovná se všem,  
 >          které jsou slaveny lžemi a podvodem.
+
+</section>

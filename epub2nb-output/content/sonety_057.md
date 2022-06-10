@@ -3,6 +3,8 @@ title: '53'
 contentType: poetry
 ---
 
+<section>
+
 > Povězte, co jste zač, z čeho jste vytvořen,  
 > že tisíc stínů se tajemně víže k vám?  
 > Vždyť jenom jeden stín, jen jeden byl dán všem,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a tak vždy najdeme pod každou krásou vás.  
 >          Vy máte na každé zevnější kráse podíl,  
 >          však stálý jako vy se nikdo nenarodil.
+
+</section>

@@ -3,6 +3,8 @@ title: '98'
 contentType: poetry
 ---
 
+<section>
+
 > Daleko od vás jsem byl v oněch jarních dnech,  
 > kdy duben pyšnil se svým pestrým oděním  
 > a všemu na světě zas nové mládí vdech,  
@@ -17,3 +19,5 @@ contentType: poetry
 > kreslenou podle vás, pravzoru přírody.  
 >          Já, od vás daleko, se cítil prostřed zimy  
 >          a jen jak se stínem vašich krás hrál si s nimi.
+
+</section>

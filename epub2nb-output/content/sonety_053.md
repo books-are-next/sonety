@@ -3,6 +3,8 @@ title: '49'
 contentType: poetry
 ---
 
+<section>
+
 > Pro ten zlý okamžik — a může se to stát —  
 > až spatřím, že ti jsou mé chyby na obtíž,  
 > až jednou láska tvá s mou začne účtovat  
@@ -17,3 +19,5 @@ contentType: poetry
 > zákon je při tobě a já jej obráním:  
 >          protože ty mi smíš kdykoli sbohem dát,  
 >          já však už nemám práv tvou lásku vymáhat.
+
+</section>

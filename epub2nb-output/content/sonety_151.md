@@ -3,6 +3,8 @@ title: '147'
 contentType: poetry
 ---
 
+<section>
+
 > Láska mne spaluje, horečka prahnoucí  
 > stále víc po tom, co pomáhá tomu zlu  
 > a co je živinou mé dlouhé nemoci,  
@@ -17,3 +19,5 @@ contentType: poetry
 > na dosah pravdy jsem a nechci pochopit:  
 >          neboť já přísahal, žes jasná jako ráno,  
 >          a ty jsi černější než noc a peklo samo.
+
+</section>

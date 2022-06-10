@@ -3,6 +3,8 @@ title: '116'
 contentType: poetry
 ---
 
+<section>
+
 > Nemluvte o tom, že svazku dvou věrných duší  
 > jsou v cestě překážky! Kdopak by láskou zval  
 > cit, jenž se změní sám, sotvaže změnu tuší,  
@@ -17,3 +19,5 @@ contentType: poetry
 > ta všechno přetrvá a jde až do hrobu.  
 >          A jestli je to blud, jejž bych sám dosvědčoval,  
 >          pak nikdy nepsal jsem a nikdo nemiloval.
+
+</section>

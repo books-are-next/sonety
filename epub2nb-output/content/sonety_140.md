@@ -3,6 +3,8 @@ title: '136'
 contentType: poetry
 ---
 
+<section>
+
 > Jestli ti duše snad mou blízkost vyčítá,  
 > řekni jí, slepé, že nejsem nic než tvé přání;  
 > a přání k tobě smí, to přece duše zná;  
@@ -17,3 +19,5 @@ contentType: poetry
 > mít to nic za něco sladkého pro sebe.  
 >          Měj ráda alespoň mé jméno bez ustání —  
 >          a máš tím ráda mne, protože značí přání.
+
+</section>

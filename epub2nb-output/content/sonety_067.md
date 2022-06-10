@@ -3,6 +3,8 @@ title: '63'
 contentType: poetry
 ---
 
+<section>
+
 > Pro tu zlou chvíli, až surová ruka Času  
 > rozdrtí milého, jako teď drtí mne,  
 > až roky vyschne krev, až jeho něžnou krásu  
@@ -17,3 +19,5 @@ contentType: poetry
 > jeho tvář nemohou vzít z lidských vzpomínek:  
 >          v těch řádcích, jež jsem psal a jež tu budou žít,  
 >          bude se milý vždy kvetoucí krásou skvít.
+
+</section>

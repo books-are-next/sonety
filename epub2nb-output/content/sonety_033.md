@@ -3,6 +3,8 @@ title: '29'
 contentType: poetry
 ---
 
+<section>
+
 > Když opuštěn a sám naříkám na svůj osud,  
 > zavržen štěstím a lidmi, už trosečník,  
 > když hledím na sebe a klnu svému losu  
@@ -17,3 +19,5 @@ contentType: poetry
 > jak skřivan letící z temných brázd v záři jitra:  
 >          neboť tvá láska mi dodává tolik sil,  
 >          že ani s králem už bych věru neměnil.
+
+</section>

@@ -3,6 +3,8 @@ title: '153'
 contentType: poetry
 ---
 
+<section>
+
 > Kupido odložil svou pochodeň a spal;  
 > a když to uviděl Dianin doprovod,  
 > jedna z děv hodila ten srdceryvný pal  
@@ -17,3 +19,5 @@ contentType: poetry
 > sem k tomu pramenu, host plný slz a běd.  
 >          Leč marně; pro mne je lékem jen jeden pramen —  
 >          oči, z nichž Kupido vzal ten svůj nový plamen.
+
+</section>

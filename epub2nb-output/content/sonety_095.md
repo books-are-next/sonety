@@ -3,6 +3,8 @@ title: '91'
 contentType: poetry
 ---
 
+<section>
+
 > Někdo se honosí svým jménem po předcích,  
 > někdo svým bohatstvím či tím, co dokázal,  
 > někdo zas obleky, i když v nich budí smích,  
@@ -17,3 +19,5 @@ contentType: poetry
 > když tě mám, mohu se chloubě všech lidí smát!  
 >          Bída je jenom v tom, že mi to můžeš vzít  
 >          a bídu bez konce na mne tím uvalit.
+
+</section>

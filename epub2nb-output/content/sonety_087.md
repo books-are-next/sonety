@@ -3,6 +3,8 @@ title: '83'
 contentType: poetry
 ---
 
+<section>
+
 > Nikdy jsem neviděl, že vy se líčíte,  
 > a tak jsem vaši tvář nelíčil ani já;  
 > myslil jsem, věřil jsem, že vy se tyčíte  
@@ -17,3 +19,5 @@ contentType: poetry
 > kteří jí chtějí dát život — a dají rov.  
 >          Vy máte v jediném oku víc života  
 >          než vaši básníci v svých chválách oba dva!
+
+</section>

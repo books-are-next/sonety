@@ -3,6 +3,8 @@ title: '129'
 contentType: poetry
 ---
 
+<section>
+
 > Mrhání ducha v tmách hanebné marnosti,  
 > to je chtíč při činu; a než chtíč uzrá v čin,  
 > zrazuje, zabíjí, chlemstá krev, chystá lsti,  
@@ -17,3 +19,5 @@ contentType: poetry
 > blahý sen z počátku, pustý mam nakonec!  
 >          To všechno každý ví; nikdo však nedovede  
 >          nevstoupit do ráje, který v to peklo vede.
+
+</section>

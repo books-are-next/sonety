@@ -3,6 +3,8 @@ title: '24'
 contentType: poetry
 ---
 
+<section>
+
 > Mé oko na způsob malíře navždy vrylo  
 > do desky srdce tvůj obličej jako živý;  
 > mé tělo jako rám ten obraz obroubilo  
@@ -17,3 +19,5 @@ contentType: poetry
 > nahlédne slunce a dívá se na tebe.  
 >          Leč jedno umění ty oči nemají:  
 >          kreslí jen to, co zří, a srdce neznají.
+
+</section>

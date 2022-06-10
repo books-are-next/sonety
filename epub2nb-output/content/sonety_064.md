@@ -3,6 +3,8 @@ title: '60'
 contentType: poetry
 ---
 
+<section>
+
 > Jak vlna za vlnou, jež k břehům v dálce plyne,  
 > jdou naše minuty vstříc konci — děsný let!  
 > Za ty, jež minuly, se hrnou stále jiné  
@@ -17,3 +19,5 @@ contentType: poetry
 > a jeho kose nic nemůže odolat.  
 >          Jen můj verš odolá — a navzdor zpívá dál  
 >          pro věky budoucí na tebe chválu chval.
+
+</section>

@@ -3,6 +3,8 @@ title: '120'
 contentType: poetry
 ---
 
+<section>
+
 > Teď je mi útěchou, že jste byl kdysi krutý,  
 > a když si vzpomenu na strast, jež rvala mne,  
 > musím se sklonit až v prach pro své klopýtnutí,  
@@ -17,3 +19,5 @@ contentType: poetry
 > na ránu v srdci už brzy svou prostou mast.  
 >          Ale můj přestupek je vlastně výkupné  
 >          a vykupuje vás, tak jako váš zas mne.
+
+</section>

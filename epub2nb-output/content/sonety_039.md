@@ -3,6 +3,8 @@ title: '35'
 contentType: poetry
 ---
 
+<section>
+
 > Tak už se nesužuj tím, co jsi udělal,  
 > vždyť někdy padne stín i na slunko a lunu,  
 > vždyť i ta růže má trní a pramen kal  
@@ -17,3 +19,5 @@ contentType: poetry
 > vždyť láska se záštím zmítají tak mou myslí,  
 >          že nemohu než vždy pomáhat nerozumně  
 >          sladkému lupiči, jenž hořce loupí u mě.
+
+</section>

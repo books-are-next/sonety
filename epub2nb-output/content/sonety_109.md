@@ -3,6 +3,8 @@ title: '105'
 contentType: poetry
 ---
 
+<section>
+
 > Neříkejte, že má láska je modlářství,  
 > netvrďte, že je mou modlou tvář miláčkova,  
 > i když mé písně a pochvaly hovoří  
@@ -17,3 +19,5 @@ contentType: poetry
 > tři věci v jediné, jaký to námět k chvále!  
 >          Laskavost, věrnost, ctnost zde často samy žily,  
 >          v jednom se dosud však nikdy tak nespojily.
+
+</section>

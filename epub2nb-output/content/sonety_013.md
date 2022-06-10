@@ -3,6 +3,8 @@ title: '9'
 contentType: poetry
 ---
 
+<section>
+
 > To máš strach, aby tu jednou snad neplakala  
 > po tobě vdova, že trávíš svůj život sám?  
 > Ach, celá země by jako ta vdova štkala,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a kdo jí neužil, navždy ji proplýtval.  
 >          Zbla lásky k jinému nemůžeš v prsou mít,  
 >          když chceš sám sebe tak hanebně zavraždit.
+
+</section>

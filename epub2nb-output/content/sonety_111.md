@@ -3,6 +3,8 @@ title: '107'
 contentType: poetry
 ---
 
+<section>
+
 > Ani mé obavy, ani ty předpovědi  
 > širého světa, jenž o příštích věcech sní,  
 > nemohou určit čas mé lásky, na niž hledí  
@@ -17,3 +19,5 @@ contentType: poetry
 > zatím co mně můj verš na věky život dá.  
 >          A ty v něm nalezneš pomník, jenž nepomine,  
 >          zatím co erb i hrob vládců už s prachem splyne.
+
+</section>

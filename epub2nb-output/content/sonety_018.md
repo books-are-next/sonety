@@ -3,6 +3,8 @@ title: '14'
 contentType: poetry
 ---
 
+<section>
+
 > Nemám své poznání z hvězd, které v nebi svítí,  
 > a přesto dovedu věštit jak astrolog —  
 > i když ne štěstí či neštěstí v lidském žití,  
@@ -17,3 +19,5 @@ contentType: poetry
 > jestli nám po sobě zanecháš náhradu.  
 >          Jinak ti předvídám pro všechny příští časy:  
 >          „Tvůj skon je smrt a zmar i věrnosti a krásy!“
+
+</section>

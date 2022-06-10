@@ -3,6 +3,8 @@ title: '62'
 contentType: poetry
 ---
 
+<section>
+
 > Hřích sebelásky se zmocnil mých pohledů,  
 > mé celé duše a každé mé částečky;  
 > a léku na ten hřích, léku už nenajdu,  
@@ -17,3 +19,5 @@ contentType: poetry
 > tak sebe milovat bylo by pohanou!  
 >          To tebe, ty mé já, jsem slavil pod svou tváří  
 >          a tvými půvaby nalíčil svoje stáří!
+
+</section>

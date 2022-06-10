@@ -3,6 +3,8 @@ title: '131'
 contentType: poetry
 ---
 
+<section>
+
 > Tak panovačná jsi vůči mně — jako ti,  
 > jimž krása vdechuje pýchu a ukrutnost,  
 > protože dobře víš, že já tě zbožňuji,  
@@ -17,3 +19,5 @@ contentType: poetry
 > já jsem tvou černou pleť vždy nejvíc miloval.  
 >          Na tobě není nic černého — krom tvých činů;  
 >          ty na té pomluvě mají však hlavní vinu.
+
+</section>

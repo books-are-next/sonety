@@ -3,6 +3,8 @@ title: '16'
 contentType: poetry
 ---
 
+<section>
+
 > Proč ale nechcete bojovat líp a snáze  
 > s Časem, tím vladařem krutým a krvavým,  
 > a proč se nechcete opevnit proti zkáze  
@@ -17,3 +19,5 @@ contentType: poetry
 > pro oči budoucích zachovat neumí.  
 >          Vy musíte se dát, jestli se chcete mít —  
 >          a ve svém díle pak budete dál zde žít.
+
+</section>

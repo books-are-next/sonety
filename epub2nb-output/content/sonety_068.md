@@ -3,6 +3,8 @@ title: '64'
 contentType: poetry
 ---
 
+<section>
+
 > A když jsem viděl Čas ukrutnou rukou rvát  
 > pýchu a nádheru těch dávno zašlých dob,  
 > když vidím věčný kov v otroctví lidských vád  
@@ -17,3 +19,5 @@ contentType: poetry
 > až přijde, lásko, čas, i ty mne opustíš.  
 >          Smrtící myšlenka; a co mi zbývá jiné  
 >          krom pláče z úzkosti, že co mám, brzy mine.
+
+</section>

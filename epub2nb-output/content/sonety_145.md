@@ -3,6 +3,8 @@ title: '141'
 contentType: poetry
 ---
 
+<section>
+
 > Popravdě řečeno, já tebe nemiluji  
 > očima, které zří na tobě tisíc vad:  
 > to srdce miluje, co oči odsuzují,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a chce ti jako rab u nohou pokleknout!  
 >          A jenom jeden zisk mám ze všech těchto běd:  
 >          že ta, jež je můj hřích, je též mým trestem hned!
+
+</section>

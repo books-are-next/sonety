@@ -3,6 +3,8 @@ title: '20'
 contentType: poetry
 ---
 
+<section>
+
 > Ó pane-paní mé lásky, máš líce ženy,  
 > vlastníma rukama Přírody malované;  
 > a něžné srdce žen, jenomže beze změny,  
@@ -17,3 +19,5 @@ contentType: poetry
 > takže tou štědrostí mi tebe vlastně vzala.  
 >          Když tě však určila jen ženám pro radosti,  
 >          ať patří mně tvůj cit — a tobě jejich skvosty.
+
+</section>

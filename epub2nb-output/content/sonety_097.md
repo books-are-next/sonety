@@ -3,6 +3,8 @@ title: '93'
 contentType: poetry
 ---
 
+<section>
+
 > Tak tedy budu dál jak oklamaný muž  
 > věřit tvé věrnosti a tvoje drahá tvář  
 > bude mi drahá dál, i když je jiná už —  
@@ -17,3 +19,5 @@ contentType: poetry
 > tvůj pohled bude jen o slasti hovořit.  
 >          Evino jablko roste z tvé spanilosti,  
 >          není-li ve shodě tvůj vzhled s tvou sladkou ctností.
+
+</section>

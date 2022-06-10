@@ -3,6 +3,8 @@ title: '3'
 contentType: poetry
 ---
 
+<section>
+
 > Nakloň se k zrcadlu a řekni tváři v něm,  
 > že už má na čase vytvořit jinou v krátku;  
 > jestli teď nebude její jas obnoven,  
@@ -17,3 +19,5 @@ contentType: poetry
 > tento svůj zlatý věk v dětech se navracet.  
 >          Jestli chceš ale žít, aby tě zapomněli,  
 >          pak zemři neženat — a zemřeš navždy celý.
+
+</section>

@@ -3,6 +3,8 @@ title: '152'
 contentType: poetry
 ---
 
+<section>
+
 > Ty víš, že přísaha mé lásky byla lež,  
 > tys ale podvakrát mně přísahala křivě:  
 > slib lůžka zlomilas — a nový příslib též,  
@@ -17,3 +19,5 @@ contentType: poetry
 > své oči nutil lhát vzdor pravdě očividné.  
 >          Neboť já přísahal na tvoji krásnou tvář —  
 >          a proto už jsem já z nás obou větší lhář.
+
+</section>

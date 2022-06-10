@@ -3,6 +3,8 @@ title: '57'
 contentType: poetry
 ---
 
+<section>
+
 > Co mohu dělat já, váš rab, než zas a zas  
 > čekat zde na chvíle, na dny, kdy něco chcete?  
 > Já nemám, komu bych věnoval vzácný čas,  
@@ -17,3 +19,5 @@ contentType: poetry
 > na nic než na štěstí těch, s nimiž právě dlíte.  
 >          Kdybyste učinil cokoliv podle svého,  
 >          láska, ten věrný bloud, v tom nenajde nic zlého.
+
+</section>

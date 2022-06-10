@@ -3,6 +3,8 @@ title: '92'
 contentType: poetry
 ---
 
+<section>
+
 > I kdybys chtěl mne ty potají opustit,  
 > já tě mám do konce života jistého;  
 > a život nebude trvat dýl než tvůj cit,  
@@ -17,3 +19,5 @@ contentType: poetry
 > pro tebe v lásce žít, pro tebe umírat.  
 >          Ale co krásného na světě nemá stín?  
 >          co když mne podvádíš a já to netuším?
+
+</section>

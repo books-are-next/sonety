@@ -3,6 +3,8 @@ title: '54'
 contentType: poetry
 ---
 
+<section>
+
 > O co víc, příteli, přidává krásy kráse  
 > ta sladká ozdoba, která je ve věrnosti!  
 > Růže má krásný vzhled, však ještě hezčí zdá se  
@@ -17,3 +19,5 @@ contentType: poetry
 > ta právě ve smrti nejsladší vůni dává!  
 >          Až uvadnete vy, ó růže mladosti,  
 >          v mých verších zůstane tresť vaší stálosti.
+
+</section>

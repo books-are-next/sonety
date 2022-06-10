@@ -3,6 +3,8 @@ title: '58'
 contentType: poetry
 ---
 
+<section>
+
 > Chraň mě bůh, jenž mi dal být vaším otrokem,  
 > abych vám vyčítal čas vašich kratochvílí  
 > nebo se v duchu ptal, kde jste byl celý den —  
@@ -17,3 +19,5 @@ contentType: poetry
 > abyste vlastní hřích ze sebe sejmul zase.  
 >          Můj los je čekat vás, i když to krutě bolí,  
 >          ne honit od zábav, ať už jsou jakékoli.
+
+</section>

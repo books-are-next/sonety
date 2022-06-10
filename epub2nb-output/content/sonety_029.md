@@ -3,6 +3,8 @@ title: '25'
 contentType: poetry
 ---
 
+<section>
+
 > Světskými poctami, chlubnými tituly  
 > nechať se honosí ti, kterým hvězdy přejí;  
 > já, jemuž bohové z toho nic nedali,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a na to, oč se bil, pak taky zapomenou!  
 >          O co jsem šťastnější: já mám jej a on mne  
 >          a naší vzájemnou láskou nic nepohne!
+
+</section>

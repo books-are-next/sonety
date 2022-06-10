@@ -3,6 +3,8 @@ title: '50'
 contentType: poetry
 ---
 
+<section>
+
 > Tak těžce trmácím se stále po cestách,  
 > a přitom ani cíl, k němuž se plahočím,  
 > mně nepřinese klid a já si říkám: „Ach,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a to mne bolí hůř než jej bok, samá krev:  
 >          při jeho ržání vždy pomyslím s bolestí,  
 >          že jedu od svého štěstí vstříc neštěstí.
+
+</section>

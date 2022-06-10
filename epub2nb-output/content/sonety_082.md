@@ -3,6 +3,8 @@ title: '78'
 contentType: poetry
 ---
 
+<section>
+
 > Tolikrát vzýval jsem tě jako Musu, milý,  
 > a tys mi při psaní tak dobře pomáhal,  
 > že také ostatní to po mně učinili  
@@ -17,3 +19,5 @@ contentType: poetry
 > a svými krásami okrášlíš učenost,  
 >          u mého umění však tvoříš jádro všeho  
 >          a zdviháš hlupáka na výši učeného.
+
+</section>

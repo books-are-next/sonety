@@ -3,6 +3,8 @@ title: '40'
 contentType: poetry
 ---
 
+<section>
+
 > Má lásko, vezmi si mé lásky všecky již  
 > a řekni, oč máš víc, nežli jsi dosud měl?  
 > O žádnou skutečnou lásku, vždyť, lásko, víš,  
@@ -17,3 +19,5 @@ contentType: poetry
 > víc křivda od milých nežli zášť nepřátel.  
 >          Ty krásný hříšníku, na němž i zlo se skví,  
 >          třebas mne zab tím vším, jen budme přáteli!
+
+</section>

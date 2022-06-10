@@ -3,6 +3,8 @@ title: '27'
 contentType: poetry
 ---
 
+<section>
+
 > Když na smrt unaven na lože večer klesnu  
 > a údy ztýrané zlou cestou složím spát,  
 > potom se vydávám zas na novou pouť ve snu —  
@@ -17,3 +19,5 @@ contentType: poetry
 > a mění temnoty v jasný a krásný den.  
 >          Tak ve dne tělo mé a v noci duše moje  
 >          se zmítá pro tebe a pro mne bez pokoje.
+
+</section>

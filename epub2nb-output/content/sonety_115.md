@@ -3,6 +3,8 @@ title: '111'
 contentType: poetry
 ---
 
+<section>
+
 > Štěstěnu kárejte za všecko, co se stalo,  
 > to božstvo vinu má, ach, za každý můj hřích  
 > tím, že mi pro život dalo tak strašně málo —  
@@ -17,3 +19,5 @@ contentType: poetry
 > dvojí trest přijmu rád, abych byl zase zdravý.  
 >          Nuž mějte útrpnost, drahý, a věřte mi:  
 >          už vaše útrpnost mne opět uzdraví.
+
+</section>

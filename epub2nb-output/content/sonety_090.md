@@ -3,6 +3,8 @@ title: '86'
 contentType: poetry
 ---
 
+<section>
+
 > Byl to snad jeho verš, plující v plné slávě  
 > jako loď za vzácným pokladem, jímž jste vy,  
 > kdo mi mé dozrálé myšlenky pohřbil v hlavě  
@@ -17,3 +19,5 @@ contentType: poetry
 > já nebyl nemocný strachy a kvůli nim!  
 >          Že však jste sebou jen jeho verš naplnil,  
 >          pro můj nic nezbylo — a tak už nemá sil!
+
+</section>

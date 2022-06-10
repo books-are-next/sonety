@@ -3,6 +3,8 @@ title: '99'
 contentType: poetry
 ---
 
+<section>
+
 > Raný květ fialky já vyplísnil jsem přísně:  
 > „Ty sladký zloději, kdes vzal ten vonný dech,  
 > ne-li mé lásce z úst? A purpur, jenž se pyšně  
@@ -18,3 +20,5 @@ contentType: poetry
 > ji na smrt užírá mstivý červ v jejím lůně.  
 >          Tisíce květů jsem viděl, leč plátky všech  
 >          u tebe ukradly buď barvu nebo dech.
+
+</section>

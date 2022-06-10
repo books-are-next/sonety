@@ -3,6 +3,8 @@ title: '67'
 contentType: poetry
 ---
 
+<section>
+
 > Ach, proč má uprostřed nákazy tady žít  
 > a zdobit bezbožnost svou vzácnou přítomností?  
 > Pročpak má z něho hřích vždy tolik výhod mít  
@@ -17,3 +19,5 @@ contentType: poetry
 > ač pyšná na mnohé, teď je jen z něho živa.  
 >          Jeho si schovává jako vzor pokladů,  
 >          jež měla za dávných a mnohem lepších dnů.
+
+</section>

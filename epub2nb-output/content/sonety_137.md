@@ -3,6 +3,8 @@ title: '133'
 contentType: poetry
 ---
 
+<section>
+
 > Ó srdce prokleté, pro něž mé srdce sténá,  
 > co žalu působí příteli a mně s ním!  
 > Což mu již nestačí muka mnou protrpěná,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a moje vězení mu ničím neztrpčíš.  
 >          A přec tak učiníš; neboť já, zavřen v tobě,  
 >          ti navždy náležím i se vším, co mám v sobě.
+
+</section>

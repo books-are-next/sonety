@@ -3,6 +3,8 @@ title: '114'
 contentType: poetry
 ---
 
+<section>
+
 > Zpíjí mou duši mor každého panovníka —  
 > lichotky — když jste ji teď k sobě na trůn zved?  
 > Nebo mám připustit, že můj zrak pravdu říká  
@@ -17,3 +19,5 @@ contentType: poetry
 > a připravuje číš pro její chtivé rty!  
 >          A je-li snad v ní jed, nelze ho obvinit:  
 >          můj zrak jej miluje a první začal pít!
+
+</section>

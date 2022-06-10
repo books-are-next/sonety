@@ -3,6 +3,8 @@ title: '128'
 contentType: poetry
 ---
 
+<section>
+
 > Kdykoliv, hudbo má, začínáš hudbu hrát  
 > na blahém nástroji a v dotýkání sladkém  
 > tvé prsty rozezní struny a jejich spád  
@@ -17,3 +19,5 @@ contentType: poetry
 > ač mrtvé — šťastnější nežli má ústa živá!  
 >          Když je to tak milé těm smělým klávesám,  
 >          dej jim své prstíky; tvá ústa zlíbám sám.
+
+</section>

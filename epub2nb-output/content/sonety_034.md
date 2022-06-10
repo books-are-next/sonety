@@ -3,6 +3,8 @@ title: '30'
 contentType: poetry
 ---
 
+<section>
+
 > Když začnu za tichých, sladkých dum svolávat  
 > ke schůzce vzpomínky na dávno zašlý svět,  
 > jen vzdychám, co je pryč těch, jež jsem míval rád,  
@@ -17,3 +19,5 @@ contentType: poetry
 > jejž musím platit zas, ač byl už zaplacen.  
 >          Stačí však na tebe, můj drahý, pomyslet,  
 >          a ty vše nahradíš, rázem je konec běd.
+
+</section>

@@ -3,6 +3,8 @@ title: '117'
 contentType: poetry
 ---
 
+<section>
+
 > Ach, jen mne obviňte, že jsem tak skrblil tím,  
 > čím jsem měl splácet dluh za vaši velkou lásku;  
 > že jsem už zapomněl na cit, jenž je mi vším  
@@ -17,3 +19,5 @@ contentType: poetry
 > jenom mne nesrazte v procitlém záští k zemi.  
 >          Já na svou obranu uvádím, že jsem v skrytu  
 >          tím chtěl jen zkoušet ctnost a stálost vašich citů.
+
+</section>

@@ -3,6 +3,8 @@ title: '65'
 contentType: poetry
 ---
 
+<section>
+
 > Vše, kámen, kov i zem a nekonečnost moří,  
 > propadá zkáze a zániku — celý svět.  
 > A jak má bojovat s tou rozběsněnou bouří  
@@ -17,3 +19,5 @@ contentType: poetry
 > kdo Času zakáže poplenit každou krásu?  
 >          Ó nikdo, nikdo, nic, jen jeden zázrak snad:  
 >          že láska bude z mých časných slov věčně plát.
+
+</section>

@@ -3,6 +3,8 @@ title: '51'
 contentType: poetry
 ---
 
+<section>
+
 > A proto odpouští má láska mému koni  
 > na cestě od tebe tu jeho loudavost.  
 > Vždyť když tě opouštím, nač spěchat, co nás honí?  
@@ -17,3 +19,5 @@ contentType: poetry
 > mé herce láska však pro lásku promine:  
 >          že kdysi nechtěla od tebe ani jít,  
 >          já k tobě poletím a koně nechám být.
+
+</section>

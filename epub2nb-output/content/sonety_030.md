@@ -3,6 +3,8 @@ title: '26'
 contentType: poetry
 ---
 
+<section>
+
 > Ó pane lásky mé, do jehož vasalství  
 > je moje oddanost tak spoutána tvou ctností,  
 > k tobě zde posílám své psané poselství —  
@@ -17,3 +19,5 @@ contentType: poetry
 > abych se ukázal hodným tvé pozornosti,  
 >          potom se budu smět chlubit, jak mám tě rád;  
 >          do těch dob musím se před tebou ukrývat.
+
+</section>
