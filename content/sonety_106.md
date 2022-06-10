@@ -3,6 +3,8 @@ title: '102'
 contentType: poetry
 ---
 
+<section>
+
 > Má láska zpevnila, i když snad slabší zdá se;  
 > mých citů není míň, i když jsou méně znát:  
 > já s láskou nekupčím, abych o její kráse  
@@ -17,3 +19,5 @@ contentType: poetry
 > a slast, jež zevšední, ztratí svou slastnou moc.  
 >          A proto i já vždy jako on zmlkám časem,  
 >          abych vás neznavil svým zpívajícím hlasem.
+
+</section>

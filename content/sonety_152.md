@@ -3,6 +3,8 @@ title: '148'
 contentType: poetry
 ---
 
+<section>
+
 > Co mi to za oči do hlavy vložila  
 > Láska, že nevidí skutečnost, jaká je!  
 > Anebo vidí-li, kam prchla soudnost má,  
@@ -17,3 +19,5 @@ contentType: poetry
 > i slunce nevidí, dokud se mračna tmí.  
 >          Ó Lásko proradná, slzou’s mne oslepila,  
 >          můj dosud dobrý zrak, abys své chyby skryla!
+
+</section>

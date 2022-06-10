@@ -3,6 +3,8 @@ title: '8'
 contentType: poetry
 ---
 
+<section>
+
 > Proč, hudbo pro poslech, nasloucháš hudbě smutná?  
 > Což hyne slastí slast a štěstím štěstí snad?  
 > Proč vlastně miluješ, co ti tak hořce chutná,  
@@ -17,3 +19,5 @@ contentType: poetry
 > to pějí jásavý zpěv jako jeden hlas;  
 >          ta píseň beze slov, v níž hlasů na tisíc  
 >          zní tónem jediným, říká: „Sám nejsi nic.“
+
+</section>

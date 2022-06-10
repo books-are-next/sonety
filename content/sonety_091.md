@@ -3,6 +3,8 @@ title: '87'
 contentType: poetry
 ---
 
+<section>
+
 > Sbohem, jsi přespříliš drahý, abych tě měl,  
 > a potom, teď už znáš cenu své vlastní cti;  
 > to dovoluje ti kdykoli, abys šel,  
@@ -17,3 +19,5 @@ contentType: poetry
 > zas vracím, abys jej lepšímu mohl dát.  
 >          Tak jsem tě, drahý, měl, jako se mívá sen:  
 >          králem jsem ve snu byl — a nejsem, probuzen!
+
+</section>

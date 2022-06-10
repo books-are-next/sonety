@@ -3,6 +3,8 @@ title: '68'
 contentType: poetry
 ---
 
+<section>
+
 > A tak je jeho tvář vzorem těch zašlých časů,  
 > kdy krása žila a zmírala jak dnes květ,  
 > než lidé začali nosit tu dnešní krásu,  
@@ -17,3 +19,5 @@ contentType: poetry
 > jež starým nebraly nový šat krásy své;  
 >          jeho zde Příroda jako vzor uchovala,  
 >          aby v něm řekla Lži, zač kdysi krása stála.
+
+</section>

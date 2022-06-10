@@ -3,6 +3,8 @@ title: '95'
 contentType: poetry
 ---
 
+<section>
+
 > Jak umíš učinit milou a líbeznou  
 > tu hanbu, jež jak červ na růži ze zahrady  
 > zle třísní kvetoucí jméno, jímž tebe zvou!  
@@ -17,3 +19,5 @@ contentType: poetry
 > a kde je pro pohled všechno hned líbeznější.  
 >          Važ si té výsady, ty moje drahé srdce:  
 >          i nejostřejší nůž se ztupí v špatné ruce!
+
+</section>

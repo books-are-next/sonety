@@ -3,6 +3,8 @@ title: '142'
 contentType: poetry
 ---
 
+<section>
+
 > Můj hřích je láska a tvoje ctnost nenávist,  
 > nenávist pro můj hřích, cit, který k tobě mám;  
 > když ale porovnáš svůj stav s mým, jsem si jist,  
@@ -17,3 +19,5 @@ contentType: poetry
 > ty došla soucitu za to, žes soucitná.  
 >          Jinak, až budeš chtít, co mně odpíráš dosud,  
 >          může tě jednou, věř, postihnout stejný osud!
+
+</section>

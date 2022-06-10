@@ -3,6 +3,8 @@ title: '52'
 contentType: poetry
 ---
 
+<section>
+
 > A tak jsem jako ten bohatec, který má  
 > klíč k sladké pokladně, v níž skrývá svoje skvosty,  
 > a který přesto ji jen zřídka otvírá,  
@@ -17,3 +19,5 @@ contentType: poetry
 > kdy mi zas ukáže svůj poklad nad poklad.  
 >          Ach, vaše cena je důvodem pro člověka  
 >          k jásání, když vás má, k doufání, když vás čeká.
+
+</section>

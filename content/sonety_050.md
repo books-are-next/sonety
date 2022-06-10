@@ -3,6 +3,8 @@ title: '46'
 contentType: poetry
 ---
 
+<section>
+
 > Mé srdce a můj zrak jsou ve smrtelném boji,  
 > jak se teď o tvoji podobu rozdělit;  
 > můj zrak chce srdci brát tu podobiznu tvoji —  
@@ -17,3 +19,5 @@ contentType: poetry
 > podíl, jenž přísluší srdci a pohledům,  
 >          a to tak, že můj zrak má na tvůj vnějšek práva  
 >          a mému srdci se tvé srdce uvnitř dává.
+
+</section>

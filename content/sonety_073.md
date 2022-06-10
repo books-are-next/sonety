@@ -3,6 +3,8 @@ title: '69'
 contentType: poetry
 ---
 
+<section>
+
 > Na tom, co z tebe zde vidí svět, není vady,  
 > kterou by mohlo chtít snad srdce zlepšovat;  
 > to přece říkají všechny rty z duše rády,  
@@ -17,3 +19,5 @@ contentType: poetry
 > dávají skoupě tvé růži puch lopuší.  
 >          Proč však je v neshodě tvůj dech s tvým pohledem?  
 >          Nejspíš to bude tím, že se teď dáváš všem.
+
+</section>

@@ -3,6 +3,8 @@ title: '2'
 contentType: poetry
 ---
 
+<section>
+
 > Až jednou oblehne čtyřicet zim tvé skráně  
 > a tvoji hladkou tvář zbrázdí jak rádlo zemi,  
 > až jednou v bědný cár se změní nečekaně  
@@ -17,3 +19,5 @@ contentType: poetry
 > vždyť jeho krása je zděděná krása má.“  
 >          Tak bys byl mladý zas, ač stár a v konci sil,  
 >          a zas bys viděl vřít chladnoucí krev svých žil.
+
+</section>

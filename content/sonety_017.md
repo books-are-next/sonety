@@ -3,6 +3,8 @@ title: '13'
 contentType: poetry
 ---
 
+<section>
+
 > Ach, kdybyste byl svůj! Jenomže vy, můj milý,  
 > jste vy jen po ten čas, dokud jste ještě tu:  
 > myslete na konec, na tu vždy blízkou chvíli,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a tím i vzteklou smrt a její věčný mráz?  
 >          Jen ten, kdo mrhá vším! Míval jste otce přec:  
 >          dovolte, ať váš syn smí říci stejnou věc!
+
+</section>

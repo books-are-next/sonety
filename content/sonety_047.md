@@ -3,6 +3,8 @@ title: '43'
 contentType: poetry
 ---
 
+<section>
+
 > Čím víc je přivírám, tím víc mé oči vidí —  
 > vždyť hledí celý den na to, co nemá ceny;  
 > když ale spím, tu v snách vidí jen tebe z lidí  
@@ -17,3 +19,5 @@ contentType: poetry
 > z nich ani na chvilku ve spánku nesejde.  
 >          Všechny dny pro mne jsou noc, když tě nevidím,  
 >          a noci jasný den, když tě v snách spatřit smím.
+
+</section>

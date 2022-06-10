@@ -3,6 +3,8 @@ title: '123'
 contentType: poetry
 ---
 
+<section>
+
 > Ne, Čase, nechlub se, že se já měním taky:  
 > i když se zvedají tvé věže sebevýš,  
 > ani to není nic nového pro mé zraky,  
@@ -17,3 +19,5 @@ contentType: poetry
 > je zdání, kterým nás šálí tvůj věčný let.  
 >          Jen to, co přísahám, je pravda v každé době:  
 >          že věrný zůstanu vzdor hrobu i vzdor tobě!
+
+</section>

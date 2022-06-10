@@ -3,6 +3,8 @@ title: '7'
 contentType: poetry
 ---
 
+<section>
+
 > Pohlédni k východu: když zvedne sladká zář  
 > svou hlavu z plamenů, oči všech pozemšťanů  
 > vzdávají hold, že zas vysvitla její tvář,  
@@ -17,3 +19,5 @@ contentType: poetry
 > už nikdo s obdivem jako dřív nepozvedne:  
 >          tak i ty zahyneš, až půlden opustí tě,  
 >          pominut pohledy, když nebudeš mít dítě.
+
+</section>

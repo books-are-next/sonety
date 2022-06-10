@@ -3,6 +3,8 @@ title: '56'
 contentType: poetry
 ---
 
+<section>
+
 > Ach, obnov svoji moc, lásko, ať neříkají,  
 > že tvoje ostří je tupější nežli hlad,  
 > který dnes utichne, sotva se člověk nají,  
@@ -17,3 +19,5 @@ contentType: poetry
 > dokud se nesešli — šťastnější než kdy dřív.  
 >          Nebo ho pojmenuj zimou, vždy plnou strastí,  
 >          po níž se léto zdá třikrát tak vzácnou slastí.
+
+</section>

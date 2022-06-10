@@ -3,6 +3,8 @@ title: '28'
 contentType: poetry
 ---
 
+<section>
+
 > Jak se mám navrátit k své dávné veselosti,  
 > když jsem i o blaho spánku teď oloupen?  
 > Když mne z té tíhy dne ani noc nevyprostí,  
@@ -17,3 +19,5 @@ contentType: poetry
 > že zlatíš večery, kdy hvězdy nevzplanou.  
 >          Leč den mne každý den dalšími strastmi mučí  
 >          a noc mi každou noc dává žal ještě prudší.
+
+</section>

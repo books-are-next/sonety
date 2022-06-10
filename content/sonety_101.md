@@ -3,6 +3,8 @@ title: '97'
 contentType: poetry
 ---
 
+<section>
+
 > Jak dlouhý zimní čas bylo mé odloučení,  
 > od tebe, radosti prchajícího roku.  
 > Co mrazu zkusil jsem, co nocí bez rozdnění  
@@ -17,3 +19,5 @@ contentType: poetry
 > a nejsi-li zde ty, mlčí i ptáci v křoví.  
 >          A když snad zpívají, pak teskně zní ten hlas,  
 >          že i list pobledne, jako by šel už mráz.
+
+</section>

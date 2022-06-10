@@ -3,6 +3,8 @@ title: '139'
 contentType: poetry
 ---
 
+<section>
+
 > Ach, nechtěj, abych tě omlouval za strasti,  
 > kterými bezcitně soužíš mé srdce ty!  
 > Netrap mne pohledy, nenič mne zvolna lstí,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a stíhá jiného krutostí jeho střel.  
 >          Ale to nedělej, raděj mne jimi zab;  
 >          i tak jsem napolo už mrtev od útrap!
+
+</section>

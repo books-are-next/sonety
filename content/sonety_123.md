@@ -3,6 +3,8 @@ title: '119'
 contentType: poetry
 ---
 
+<section>
+
 > Co jsem to za léky pil ze slz Siréniných,  
 > vařených v křivulích, černých jak samo peklo!  
 > Co jsem žil nadějí i bázní, stále jiných,  
@@ -17,3 +19,5 @@ contentType: poetry
 > je krásnější než dřív a mnohem, mnohem větší!  
 >          A tak se kajícně k své lásce navracím  
 >          a mám teď třikrát víc než před tím blázněním.
+
+</section>

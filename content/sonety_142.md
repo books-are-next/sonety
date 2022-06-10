@@ -3,6 +3,8 @@ title: '138'
 contentType: poetry
 ---
 
+<section>
+
 > Když milá přísahá, že jenom pravdu říká,  
 > věřím jí, i když vím, že to je pouhá lež,  
 > jen proto, aby mne měla dál za mladíka,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a kdo má v stáří rád, neříká rád svůj věk.  
 >          A tak si lžeme dál, ona mně a já jí,  
 >          a našim slabostem to lhaní lichotí.
+
+</section>

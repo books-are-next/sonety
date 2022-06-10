@@ -3,6 +3,8 @@ title: '44'
 contentType: poetry
 ---
 
+<section>
+
 > Kdybych byl z myšlenky a ne z masa a kostí,  
 > co mohlo by se mi postavit do cesty?  
 > Navzdory prostoru, přes všechny vzdálenosti  
@@ -17,3 +19,5 @@ contentType: poetry
 > a proto musím štkát a čekat, co dá čas:  
 >          od těch dvou prvků bych se už nic nedočkal  
 >          krom proudů těžkých slz, jež značí jejich žal!
+
+</section>

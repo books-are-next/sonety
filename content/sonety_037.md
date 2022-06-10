@@ -3,6 +3,8 @@ title: '33'
 contentType: poetry
 ---
 
+<section>
+
 > Kolikrát viděl jsem, jak jitro v plné slávě  
 > lichotí štítům hor svým okem vladaře  
 > a jeho zlatá tvář líbá luh s rosou v trávě  
@@ -17,3 +19,5 @@ contentType: poetry
 > a pak je ve výškách zastřela mračna zas.  
 >          Já však je ctím i tak; jak má být stále jasné,  
 >          když i to na nebi se zatemní a zhasne?
+
+</section>

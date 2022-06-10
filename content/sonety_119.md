@@ -3,6 +3,8 @@ title: '115'
 contentType: poetry
 ---
 
+<section>
+
 > Teď už vím, že je lež to, co jsem kdysi psal,  
 > že bych vás nemohl ještě víc milovat:  
 > tenkrát však, tenkráte můj rozum nechápal,  
@@ -17,3 +19,5 @@ contentType: poetry
 > kdy jsem se nemusil na chvíli o vás bát?  
 >          Ale teď lituji, že jsem to říkával:  
 >          láska je dítě, jež musí růst stále dál.
+
+</section>

@@ -3,6 +3,8 @@ title: '42'
 contentType: poetry
 ---
 
+<section>
+
 > To, že je ona tvá, není vše, co mne mučí —  
 > a věru, příteli, měl jsem ji z duše rád.  
 > Že ona tebe má, je bolest mnohem prudší,  
@@ -17,3 +19,5 @@ contentType: poetry
 > oba dva na mne tím kladete těžký kříž.  
 >          Mám ale útěchu: ty a já jedno jsme.  
 >          Sladký klam: potom přec má ráda zas jen mne!
+
+</section>

@@ -3,6 +3,8 @@ title: '104'
 contentType: poetry
 ---
 
+<section>
+
 > Ne, pro mne, drahý můj, vy nebudete starý.  
 > Jste stále krásný tak, jak jsem vás kdysi zhléd.  
 > Tři žluté podzimy se vystřídaly s jary,  
@@ -17,3 +19,5 @@ contentType: poetry
 > mizí a uplývá, mé oči klamajíc.  
 >          Strašlivá myšlenka! Ó, věku příští, slyš:  
 >          máj krásy zahyne, dřív než se narodíš!
+
+</section>

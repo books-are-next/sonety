@@ -3,6 +3,8 @@ title: '55'
 contentType: poetry
 ---
 
+<section>
+
 > Přetrvá mramory, přetrvá zlaté věže  
 > a hrobky vladařů tento můj mocný rým:  
 > zatím co z kamene čas písmo dávno smaže,  
@@ -17,3 +19,5 @@ contentType: poetry
 > jež má nést tato zem až do skonání času.  
 >          Tak až po soudný den, kdy z mrtvých vstaneme,  
 >          budete stále žít v čtenářích básně mé.
+
+</section>

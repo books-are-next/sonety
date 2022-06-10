@@ -3,6 +3,8 @@ title: '39'
 contentType: poetry
 ---
 
+<section>
+
 > Jak mohu opěvat, můj drahý, se ctí tebe,  
 > když ty sám nejsi nic nežli můj lepší díl?  
 > Co mi to přinese, když budu slavit sebe?  
@@ -17,3 +19,5 @@ contentType: poetry
 > jež naše myšlenky a čas tak sladce šálí,  
 >          a kdybys milého vždy nedělilo v dva:  
 >          v toho, kdo prchá, a v toho, kdo setrvá!
+
+</section>

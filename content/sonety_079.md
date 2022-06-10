@@ -3,6 +3,8 @@ title: '75'
 contentType: poetry
 ---
 
+<section>
+
 > Jste pro mé myšlenky jako chléb pro život  
 > a jako sladký čas dešťů pro zprahlou zem;  
 > kvůli vám zmítám se ve víru nejistot  
@@ -17,3 +19,5 @@ contentType: poetry
 > kromě té, kterou mi můžete dáti vy:  
 >          tak denně hladovím a denně hody mám:  
 >          hned tonu v nadbytku a hned je vše to tam!
+
+</section>

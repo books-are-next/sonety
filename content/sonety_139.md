@@ -3,6 +3,8 @@ title: '135'
 contentType: poetry
 ---
 
+<section>
+
 > Ať každá má, co chce, ty přece máš své přání  
 > a k tomu přítele a navíc ještě mne.  
 > Co se tě jenom já natrápím bez ustání  
@@ -17,3 +19,5 @@ contentType: poetry
 > to moje k ostatním, ať jich máš o to víc.  
 >          Nezabij prosící přání svým krutým „ne“;  
 >          měj všechna za jedno — a v tom vždy i to mé!
+
+</section>

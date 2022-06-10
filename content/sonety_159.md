@@ -3,7 +3,7 @@ title: Poznámka překladatele
 contentType: poetry
 ---
 
-  
+<section>
 
 Shakespearovy Sonety, které by už samy o sobě stačily zajistit svému tvůrci světové uznání, nemají u nás bohužel tradici tak živou a plodnou jako ostatní dílo velkého Stratforďana. Přesto však je tato tradice větší, než jsme se dosud domnívali, jak o tom svědčí nedávný nález překladů Jaroslava Vrchlického, i když ke škodě Shakespearovy i naší poezie Vrchlického verze Sonetů není úplná. A tak zůstává jediným úplným převodem Sonetů do češtiny stále ještě překlad, který vydal roku 1923 na Kladně Antonín Klášterský.[1](./resources/undefined)
 
@@ -17,7 +17,9 @@ Je ovšem nepochybné, že se tím ráz Shakespearova původního verše do jist
 
 Větší platnost proti takovému rozšíření verše by už měly důvody umělecké, ty však lze ověřit jen na konkrétním materiálu, to jest na překladu samém a jeho porovnání s převody jinými, což ovšem může provést jedině kritika.
 
-  
+</section>
+
+<section>
 
 Snaha o vystižení a zdůraznění onoho „moderního a živého“ prvku v Shakespearových sonetech byla však sama o sobě velmi mlhavá a mohla stačit jako vodítko skutečně jen při převodu jednotlivých sonetů a malého výboru. Jakmile došlo na překlad celku, ukázalo se, že takový přístup ke staré poezii je velmi povšechný a povrchní. Tato poezie je mnohem složitější, než můžeme postřehnout na první pohled, a vedle složek, jež vnímáme bezprostředně, je v ní i mnoho prvků, jež pochopíme a oceníme teprve po důkladnějším poznání jak básně samé, tak širšího kontextu, v němž vznikla.
 
@@ -39,7 +41,9 @@ A právě tak je to i s celkovým rázem jeho sonetů; ač původem snad konv
 
 To všechno je ostatně v naprosté shodě s ostatní Shake­spearovou tvorbou, v níž obdobně nabývají více méně konvenční náměty Shake­spearových předchůdců pod rukou tvůrce Hamleta tvaru vysoce básnického, v níž obdobně dostávají konvenční figury předshakespea­rovského divadla pod Shakespearovým perem rysy skutečných lidí.
 
-  
+</section>
+
+<section>
 
 Rozpoznat všechny tyto složky, zvážit jejich důležitost jak pro původní dílo, tak pro dnešek, neopominout dobovou a konvenční stránku Sonetů a přitom dobře zdůraznit jejich básnickou původnost – a posléze najít pro to všechno ekvivalent v češtině a v dnešní básnické řeči, to byl úkol více než obtížný.
 
@@ -52,3 +56,5 @@ Jan Vladislav
 * * *
 
 [1](./resources/undefined) Stav vyšlých překladů do češtiny z roku 1955. Pozn. red.
+
+</section>

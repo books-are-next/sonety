@@ -3,6 +3,8 @@ title: '48'
 contentType: poetry
 ---
 
+<section>
+
 > Co jsem se nastaral, když jsem měl odejet,  
 > abych dal pod zámek i každou tretku v domě  
 > a skryl ji v bezpečí před rukou zloděje  
@@ -17,3 +19,5 @@ contentType: poetry
 > kam smíš a odkud smíš, kdykoli by sis přál.  
 >          Leč ani tam tě nic, bojím se, neuhlídá —  
 >          vždyť pro takový skvost se i ctnost na lup vydá!
+
+</section>

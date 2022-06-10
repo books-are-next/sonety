@@ -3,6 +3,8 @@ title: '15'
 contentType: poetry
 ---
 
+<section>
+
 > Když povážím, že vše, co zrodí tato zem,  
 > vždy jenom okamžik v plnosti může kvést,  
 > že vše, co zřím, je jen nesmírným jevištěm,  
@@ -17,3 +19,5 @@ contentType: poetry
 > jak změnit mládí, den, v stáří a temnotu:  
 >          já ale bojuji s tím Časem — z lásky k vám;  
 >          vše, co vám uloupí, já pro vás uchovám.
+
+</section>

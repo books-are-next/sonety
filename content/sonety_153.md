@@ -3,6 +3,8 @@ title: '149'
 contentType: poetry
 ---
 
+<section>
+
 > Proč říkáš, ukrutná, že tě já nemám rád,  
 > když se vždy spolčuji s tebou sám proti sobě?  
 > Nemyslím na tebe, ty mučitelko, snad,  
@@ -17,3 +19,5 @@ contentType: poetry
 > před tvými chybami, jak mi tvé oči velí?  
 >          Ale jen nenáviď, teď už vím, na čem jsem:  
 >          miluješ vidoucí, a já jsem zaslepen.
+
+</section>

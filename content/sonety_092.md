@@ -3,6 +3,8 @@ title: '88'
 contentType: poetry
 ---
 
+<section>
+
 > Až jednou začneš mé zásluhy zlehčovat  
 > a shlížet na mne jen očima pohrdání,  
 > já budu při tobě sám proti sobě stát  
@@ -17,3 +19,5 @@ contentType: poetry
 > můžeš mít užitek, mám ho já dvojnásobně.  
 >          Já tě tak miluji, tak jsem ti odevzdán,  
 >          že pro tvé dobro chci nést všecko zlo jen sám.
+
+</section>

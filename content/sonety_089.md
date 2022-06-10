@@ -3,6 +3,8 @@ title: '85'
 contentType: poetry
 ---
 
+<section>
+
 > Má Musa utichla v způsobném mlčení,  
 > zatím co ostatní honosné chvály dál  
 > zvěčňují vaši tvář zlatými písmeny  
@@ -17,3 +19,5 @@ contentType: poetry
 > ač v slovech poslední — vždy první v lásce k vám.  
 >          Jiných si važte zde pro zvučnost jejich strof;  
 >          mne pro mé myšlenky, jež mluví beze slov.
+
+</section>

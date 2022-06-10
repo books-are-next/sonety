@@ -3,6 +3,8 @@ title: '151'
 contentType: poetry
 ---
 
+<section>
+
 > Znát, co je svědomí, na to je láska mladá,  
 > třebaže svědomí se rodí právě z ní!  
 > A proto nežaluj na mne, vždyť moje zrada,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a hájí tvoji věc, až klesne u tebe!  
 >          A přec mám svědomí, i když svou lásku vkládám  
 >          do lásky, pro kterou se pozvedám i padám!
+
+</section>

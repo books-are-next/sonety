@@ -3,6 +3,8 @@ title: '74'
 contentType: poetry
 ---
 
+<section>
+
 > Neměj však obavy: až přijde rozkaz jít —  
 > a bez odkladu — tam, kam musí každý v krátku,  
 > kus mého života bude dál tady žít  
@@ -17,3 +19,5 @@ contentType: poetry
 > přespříliš ohavný, abys naň vzpomínal.  
 >          Cenu má jenom to, co bylo uvnitř v těle,  
 >          a to ti zůstane na věky věků celé.
+
+</section>

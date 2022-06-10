@@ -3,6 +3,8 @@ title: '38'
 contentType: poetry
 ---
 
+<section>
+
 > Jak si má vymýšlet má Musa, o čem psát,  
 > dokud zde dýcháš ty a plníš moje slova  
 > svým sladkým obsahem, který je škoda dát  
@@ -17,3 +19,5 @@ contentType: poetry
 > tomu dej na věky psát verše věčné znící.  
 >          Je-li můj skromný zpěv vhod dnešní přísné době,  
 >          námaha patří mně, ale ta sláva tobě.
+
+</section>

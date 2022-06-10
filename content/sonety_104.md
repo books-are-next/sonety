@@ -3,6 +3,8 @@ title: '100'
 contentType: poetry
 ---
 
+<section>
+
 > Kdepak jsi, Muso, že takový dlouhý čas  
 > nemluvíš o tom, co ti dává všechnu sílu?  
 > Nemrháš ty svůj žár a nekalíš svůj jas  
@@ -17,3 +19,5 @@ contentType: poetry
 > ať je všem pro posměch to pustošení Času.  
 >          Oslav mou lásku dřív, než ji Čas navždy skosí;  
 >          jenom tak předstihneš zlý úder jeho kosy.
+
+</section>

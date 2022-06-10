@@ -3,6 +3,8 @@ title: '5'
 contentType: poetry
 ---
 
+<section>
+
 > Ty chvíle pokojné, jež jako jemný vzor  
 > utkaly drahý zjev, vábící každý zrak,  
 > dají i jemu znát jednou svůj mocný vzdor,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a s tím i vzpomínka na něhu letních dnů.  
 >          Ale květ nezmírá, i když se blíží mráz:  
 >          proměněn ztratí tvar a žije v tresti zas.
+
+</section>

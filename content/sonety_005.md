@@ -3,6 +3,8 @@ title: '1'
 contentType: poetry
 ---
 
+<section>
+
 > Chceme mít potomstvo od všeho, co je krásné,  
 > aby květ krásy zde nikdy kvést nepřestal,  
 > nýbrž až dozraje, až opadne a zhasne,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a — něžný lakomec — plýtváš v svém skrblení.  
 >          Smiluj se nad světem, zanech té lakoty,  
 >          nechtějte poklad všech zhltnout jen hrob a ty!
+
+</section>

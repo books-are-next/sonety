@@ -3,6 +3,8 @@ title: '37'
 contentType: poetry
 ---
 
+<section>
+
 > Tak jako sleduje otec, jenž zestaral,  
 > mladistvé rozlety svých dětí potěšeně,  
 > i já, zle ochromen tím, jak mne osud štval,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a že mi náleží dílem i tvoje sláva.  
 >          Co vidíš nejlepší, to ti chci z duše přát.  
 >          A že to přání mám, jsem šťasten desetkrát.
+
+</section>

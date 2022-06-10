@@ -3,6 +3,8 @@ title: '66'
 contentType: poetry
 ---
 
+<section>
+
 > Znaven, ach, znaven vším, já volám smrt a klid,  
 > když vidím zásluhy rodit se u žebráka,  
 > a bědnou nicotnost zas v nádheře se skvít,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a Dobro, zajaté a otročící Zlu —  
 >          tím vším, ach, unaven, já zemřel bych už rád,  
 >          kdybych tím nemusel i lásce sbohem dát.
+
+</section>

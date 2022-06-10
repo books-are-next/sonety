@@ -3,6 +3,8 @@ title: '45'
 contentType: poetry
 ---
 
+<section>
+
 > Druhé dva, očistný oheň a lehký vzduch,  
 > jsou stále u tebe, kdekoli zůstávám;  
 > první je touha má a druhý je můj duch —  
@@ -17,3 +19,5 @@ contentType: poetry
 > a mluví o tobě, tvém zdraví a tvé kráse.  
 >          Těším se z jejich zpráv, ale jen krátký čas —  
 >          a pak je pošlu zpět a jsem tu smutný zas.
+
+</section>

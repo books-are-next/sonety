@@ -3,6 +3,8 @@ title: '71'
 contentType: poetry
 ---
 
+<section>
+
 > Až pro mne přijde smrt, nenaříkejte dýl,  
 > než pokud budete poslouchat chrapot hran,  
 > jak ohlašují všem, že jsem již opustil  
@@ -17,3 +19,5 @@ contentType: poetry
 > a nechte lásku svou skončit s mým životem:  
 >          aby se moudrý svět nedíval na váš žal  
 >          a pak se vám i mně, mrtvému, nevysmál!
+
+</section>

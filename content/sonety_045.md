@@ -3,6 +3,8 @@ title: '41'
 contentType: poetry
 ---
 
+<section>
+
 > Ty milé poklesky, k nimž tě tvá volnost svádí,  
 > když někdy na chvíli tvé srdce opustím,  
 > sluší tvé kráse a sluší tvému mládí,  
@@ -17,3 +19,5 @@ contentType: poetry
 > že rušíš dvojí slib věrnosti najednou:  
 >          ten její, tím že ji tvá krása odvádí,  
 >          a ten svůj, tím že mne tvá krása podvádí.
+
+</section>

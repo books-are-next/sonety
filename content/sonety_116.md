@@ -3,6 +3,8 @@ title: '112'
 contentType: poetry
 ---
 
+<section>
+
 > Láskou a soustrastí vy stíráte s mých skrání  
 > znamení potupy, jež mi dav vypálil.  
 > Co na tom, kdo mě dál vynáší nebo haní,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a svoji nedbalost se snažím omlouvat  
 >          tím, že vás cítím v své mysli tak pevně tkvět,  
 >          že se mi kromě vás zdá mrtvý celý svět.
+
+</section>

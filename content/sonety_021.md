@@ -3,6 +3,8 @@ title: '17'
 contentType: poetry
 ---
 
+<section>
+
 > Kdopak by uvěřil v přívalu příštích dob  
 > mým veršům, které jsem jen vámi naplnil?  
 > Ačkoli, nebe ví, i to je jenom hrob,  
@@ -17,3 +19,5 @@ contentType: poetry
 > za píseň z dávných dob a zápal básníka.  
 >          Kdybyste ale svět přesvědčil dítětem,  
 >          byl byste dvakrát živ: v mém verši zde — a v něm.
+
+</section>

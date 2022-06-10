@@ -3,6 +3,8 @@ title: '80'
 contentType: poetry
 ---
 
+<section>
+
 > Ach, ztrácím odvahu, když píšu o vás, milý,  
 > a přitom vím, že vás lepší duch opěvá  
 > a vkládá do svých chval veškeré svoje síly,  
@@ -17,3 +19,5 @@ contentType: poetry
 > zatím co jeho loď skví se jak drahokam:  
 >          nejhorší je, když on dopluje a já zhynu,  
 >          že na mé zkáze má jen moje láska vinu!
+
+</section>

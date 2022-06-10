@@ -3,6 +3,8 @@ title: '89'
 contentType: poetry
 ---
 
+<section>
+
 > Tvrď, žes mne opustil pro některou z mých vad,  
 > a já se podrobím a začnu sám se hanit;  
 > rci, že jsem kulhavý, a začnu napadat  
@@ -17,3 +19,5 @@ contentType: poetry
 > nebylo ještě mnou, hříšníkem, znesvěceno;  
 >          budu se za tebe bít proti sobě vždy:  
 >          jak mohu milovat, co nenávidíš ty?
+
+</section>

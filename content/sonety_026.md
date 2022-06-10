@@ -3,6 +3,8 @@ title: '22'
 contentType: poetry
 ---
 
+<section>
+
 > Zrcadlem nedám se přesvědčit o svém stáří,  
 > dokavad ještě ty a mládí jedno jste;  
 > ale až uvidím spár času na tvé tváři,  
@@ -17,3 +19,5 @@ contentType: poetry
 > jak chůva robátko, vyrval všem nehodám.  
 >          Nemysli, že ti je dám, až bys moje ztratil:  
 >          dals mi je, ale ne, abych ti je zas vrátil.
+
+</section>

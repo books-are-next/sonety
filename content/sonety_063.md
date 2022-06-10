@@ -3,6 +3,8 @@ title: '59'
 contentType: poetry
 ---
 
+<section>
+
 > Není-li vskutku nic nového na zemi,  
 > bylo-li vskutku to, co je, už dříve všecko,  
 > jaký klam, vymýšlet cokoli s bolestmi  
@@ -17,3 +19,5 @@ contentType: poetry
 > anebo jestli v tom věky nic nezměnily.  
 >          Ach, já mám jistotu, že pěvci dávných časů  
 >          slavili s úžasem daleko menší krásu.
+
+</section>

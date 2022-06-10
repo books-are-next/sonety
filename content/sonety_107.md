@@ -3,6 +3,8 @@ title: '103'
 contentType: poetry
 ---
 
+<section>
+
 > Ach, co to rodí jen má Musa za bědnost,  
 > ač měla na čem se ukázat v plném jasu!  
 > Vždyť její námět má víc ceny, všeho prost,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a zpívat o vašich přednostech v každé době!  
 >          Však víc, a mnohem víc než můj verš, který čtete,  
 >          vám poví zrcadlo, do něhož nahlédnete.
+
+</section>

@@ -3,6 +3,8 @@ title: '127'
 contentType: poetry
 ---
 
+<section>
+
 > Dříve svět v černé nic krásného neviděl,  
 > a pokud viděl snad, neříkal tomu krása;  
 > teď jméno krásy však zdědila černá, žel,  
@@ -17,3 +19,5 @@ contentType: poetry
 > a lživým pozlátkem jen ostouzejí zemi.  
 >          Ale to truchlení jim dává tolik jasu,  
 >          že každý uznává za vzor jen jejich krásu!
+
+</section>
