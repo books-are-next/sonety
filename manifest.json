@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-sonety-2e2eb6c",
-  "revision": "2e2eb6c",
+  "identifier": "shakespeare-sonety-fef24fe",
+  "revision": "fef24fe",
   "readingOrder": [
     "promo.html",
     "sonety_005.html",
@@ -170,8 +170,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:11:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949505588
+    "date": "Mon Jun 13 2022 21:58:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157489702
   },
   "documents": [
     {
@@ -3289,9 +3289,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 98,
-      "chars": 653,
-      "ideas": 9,
+      "words": 133,
+      "chars": 851,
+      "ideas": 19,
       "role": "colophon",
       "order": null,
       "prev": "sonety_159.html",
@@ -3309,9 +3309,9 @@
   ],
   "totals": {
     "all": {
-      "words": 18381,
-      "chars": 96604,
-      "ideas": 2344
+      "words": 18416,
+      "chars": 96802,
+      "ideas": 2354
     },
     "chapters": {
       "words": 18278,
