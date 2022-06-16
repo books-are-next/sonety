@@ -5,11 +5,11 @@
   "title": "Sonety",
   "author": "William Shakespeare",
   "publisher": "Městská knihovna v Praze",
-  "edition": "beletrie",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-sonety-213a8a3",
-  "revision": "213a8a3",
+  "identifier": "shakespeare-sonety-b2a7219",
+  "revision": "b2a7219",
   "readingOrder": [
     "promo.html",
     "sonety_005.html",
@@ -170,8 +170,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:56:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272614287
+    "date": "Thu Jun 16 2022 12:05:18 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655381118187
   },
   "documents": [
     {
@@ -3310,7 +3310,7 @@
   "totals": {
     "all": {
       "words": 18430,
-      "chars": 96909,
+      "chars": 96907,
       "ideas": 2354
     },
     "chapters": {

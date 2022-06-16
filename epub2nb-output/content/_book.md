@@ -10,7 +10,7 @@ meta:
   author: William Shakespeare
   publisher: Městská knihovna v Praze
   modified: '2021-08-16T00:00:00.000Z'
-  edition: beletrie
+  edition: poezie
   publisherShort: mkp
   contentType: poetry
 readingOrder:
