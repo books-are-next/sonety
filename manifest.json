@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-sonety-e91115b",
-  "revision": "e91115b",
+  "identifier": "shakespeare-sonety-a6e67b1",
+  "revision": "a6e67b1",
   "readingOrder": [
     "promo.html",
     "sonety_005.html",
@@ -170,8 +170,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:48:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414897879
+    "date": "Thu Sep 29 2022 21:34:56 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487296379
   },
   "documents": [
     {
@@ -3270,7 +3270,7 @@
       "title": "Poznámka překladatele",
       "file": "sonety_159.html",
       "words": 1458,
-      "chars": 9534,
+      "chars": 9535,
       "ideas": 22,
       "role": "chapter",
       "order": 155,
@@ -3310,12 +3310,12 @@
   "totals": {
     "all": {
       "words": 18563,
-      "chars": 97758,
+      "chars": 97759,
       "ideas": 2373
     },
     "chapters": {
       "words": 18278,
-      "chars": 95915,
+      "chars": 95916,
       "ideas": 2331
     }
   }
