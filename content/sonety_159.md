@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-Shakespearovy Sonety, které by už samy o sobě stačily zajistit svému tvůrci světové uznání, nemají u nás bohužel tradici tak živou a plodnou jako ostatní dílo velkého Stratforďana. Přesto však je tato tradice větší, než jsme se dosud domnívali, jak o tom svědčí nedávný nález překladů Jaroslava Vrchlického, i když ke škodě Shakespearovy i naší poezie Vrchlického verze Sonetů není úplná. A tak zůstává jediným úplným převodem Sonetů do češtiny stále ještě překlad, který vydal roku 1923 na Kladně Antonín Klášterský.[1](./resources/undefined)
+Shakespearovy Sonety, které by už samy o sobě stačily zajistit svému tvůrci světové uznání, nemají u nás bohužel tradici tak živou a plodnou jako ostatní dílo velkého Stratforďana. Přesto však je tato tradice větší, než jsme se dosud domnívali, jak o tom svědčí nedávný nález překladů Jaroslava Vrchlického, i když ke škodě Shakespearovy i naší poezie Vrchlického verze Sonetů není úplná. A tak zůstává jediným úplným převodem Sonetů do češtiny stále ještě překlad, který vydal roku 1923 na Kladně Antonín Klášterský.[^1]
 
 Ostatní překladatelé Sonetů, v jejichž řadách najdeme i tak významné shakespearovské tlumočníky jako J. V. Sládka a Ot. Fischera, se spokojili s převodem několika ukázek nebo také jen jednotlivých sonetů; většina těchto překladů byla porůznu otištěna, některé však – jako připomenutý soubor Vrchlického – zůstaly v rukopisech. V rukopisu jsou dosud také překlady E. A. Saudka.
 
@@ -55,6 +55,6 @@ Jan Vladislav
 
 * * *
 
-[1](./resources/undefined) Stav vyšlých překladů do češtiny z roku 1955. Pozn. red.
+[^1]: Stav vyšlých překladů do češtiny z roku 1955. Pozn. red.
 
 </section>
