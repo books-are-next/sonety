@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "shakespeare-sonety-72c201c",
-  "revision": "72c201c",
+  "identifier": "shakespeare-sonety-77d14b8",
+  "revision": "77d14b8",
   "readingOrder": [
     "promo.html",
     "sonety_005.html",
@@ -170,8 +170,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:57:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151057847
+    "date": "Mon Oct 10 2022 15:50:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417000243
   },
   "documents": [
     {
@@ -3290,7 +3290,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 144,
-      "chars": 958,
+      "chars": 959,
       "ideas": 16,
       "role": "about",
       "order": null,
@@ -3310,7 +3310,7 @@
   "totals": {
     "all": {
       "words": 18560,
-      "chars": 97759,
+      "chars": 97760,
       "ideas": 2370
     },
     "chapters": {
