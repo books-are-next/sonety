@@ -13,6 +13,7 @@ meta:
   edition: poezie
   publisherShort: mkp
   contentType: poetry
+  isbn: 978-80-274-2817-5
 readingOrder:
   - promo.html
   - sonety_005.html

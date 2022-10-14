@@ -9,7 +9,8 @@
       "modified": "2021-08-16T00:00:00.000Z",
       "edition": "poezie",
       "publisherShort": "mkp",
-      "contentType": "poetry"
+      "contentType": "poetry",
+      "isbn": "978-80-274-2817-5"
     },
     "elements": {
       "title": "MLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_kapitola\nMLP_uroven2_basne",
@@ -25,11 +26,12 @@
       "brAfter": "MLP-text-bez1radku--0-12\nMLP_text_bez1radku_-0-12-",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
+      "centered": "",
+      "verse": "MLP-verse\nMLP-verse.+",
       "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\nMLP_citat",
       "strong": "MLP-tiraz-autor-a-nazev\nMLP_tiraz_autor_a_nazev\nMLP-licence-paragraf",
       "remove": "",
-      "ignore": "",
-      "verse": "MLP-verse\nMLP-verse.+"
+      "ignore": ""
     },
     "structure": [
       {
@@ -3172,6 +3174,6 @@
       "user": "books-are-next",
       "repo": "sonety"
     },
-    "generatedAt": 1665415856191
+    "generatedAt": 1665754488867
   }
 }
